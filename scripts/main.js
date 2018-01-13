@@ -6,7 +6,7 @@ $(function() {
 	});
 
 	var ticker = function() {
-		$.getJSON('http://104.200.67.85:8000/ticker', function(data) {
+		$.getJSON('https://backend.brecoins.com.br/ticker', function(data) {
 			$(".__buy").text(accounting.formatMoney(data.sell/1e2, 'R$ ', 2, '.', ','));
 			$(".__sell").text(accounting.formatMoney(data.buy/1e2, 'R$ ', 2, '.', ','));
 		});
