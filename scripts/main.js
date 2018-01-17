@@ -1,16 +1,1 @@
-$(function() {
-	$(".scrollTo").click(function(e) {
-		e.preventDefault();
-		var st = '.'+String($(this).attr('href')).substr(1);
-		$('html, body').animate({ scrollTop: $(st).offset().top }, 1000);
-	});
-
-	var ticker = function() {
-		$.getJSON('https://backend.brecoins.com.br/ticker', function(data) {
-			$(".__buy").text(accounting.formatMoney(data.sell/1e2, 'R$ ', 2, '.', ','));
-			$(".__sell").text(accounting.formatMoney(data.buy/1e2, 'R$ ', 2, '.', ','));
-		});
-	};
-	ticker();
-	setInterval(ticker, 10000);
-});
+"use strict";$(function(){$(".navbar-burger").click(function(){var t=$(this).data("target");$("#"+t).toggleClass("is-active")}),$(window).scroll(function(){window.scrollY>window.innerHeight?$(".navbar").addClass("is-fixed-top").css({background:"#000"}):$(".navbar").removeClass("is-fixed-top").css({background:""})}),$(".scrollTo").click(function(t){t.preventDefault();var n="."+String($(this).attr("href")).substr(1);$("html, body").animate({scrollTop:$(n).offset().top},1e3)});var t=function(){$.getJSON("https://backend.brecoins.com.br/ticker",function(t){$(".__buy").text(accounting.formatMoney(t.sell/100,"R$ ",2,".",",")),$(".__sell").text(accounting.formatMoney(t.buy/100,"R$ ",2,".",","))})};t(),setInterval(t,1e4)});
