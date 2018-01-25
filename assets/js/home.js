@@ -18,8 +18,8 @@ $(document).ready(function () {
 	    $.getJSON("https://backend.brecoins.com.br/ticker", function(t) {
 	        $("[data-var=sell]").text(accounting.formatMoney(t.sell / 100, "", 2, ".", ","));
 	        $("[data-var=buy]").text(accounting.formatMoney(t.buy / 100, "", 2, ".", ","));
-	        $("[data-var=volume_btc]").text(accounting.formatMoney(t.volume_btc, "", 8, ",", "."));
-	        $("[data-var=volume_brl]").text(accounting.formatMoney(t.volume_brl, "", 2, ".", ","));
+	        $("[data-var=volume_btc]").text(accounting.formatMoney(t.vol_crypto, "", 8, ",", "."));
+	        $("[data-var=volume_brl]").text(accounting.formatMoney(t.vol_fiat, "", 2, ".", ","));
 	        $("[data-var=variacao]").text(Number(100 - ( (100*t.last)/t.open )).toFixed(1));
 	    })
 	};
