@@ -16,11 +16,11 @@ $(document).ready(function () {
 
 	var ticker = function() {
 	    $.getJSON("https://backend.brecoins.com.br/ticker", function(t) {
-	        $("[data-var=sell]").text(accounting.formatMoney(t.sell / 100, "", 2, ".", ","));
-	        $("[data-var=buy]").text(accounting.formatMoney(t.buy / 100, "", 2, ".", ","));
-	        $("[data-var=volume_btc]").text(accounting.formatMoney(t.vol_crypto, "", 8, ",", "."));
-	        $("[data-var=volume_brl]").text(accounting.formatMoney(t.vol_fiat, "", 2, ".", ","));
-	        $("[data-var=variacao]").text(Number(100 - ( (100*t.last)/t.open )).toFixed(1));
+	        $("[data-var=sell]").text(accounting.formatMoney(t.sell / 1e2, "", 2, ".", ","));
+	        $("[data-var=buy]").text(accounting.formatMoney(t.buy / 1e2, "", 2, ".", ","));
+	        $("[data-var=volume_btc]").text(accounting.formatMoney(t.vol_crypto/1e8, "", 8, ",", "."));
+	        $("[data-var=volume_brl]").text(accounting.formatMoney(t.vol_fiat/1e2, "", 2, ".", ","));
+	        $("[data-var=variacao]").text(Number(100 - (t.last/(t.open/1e2) )).toFixed(1));
 	    })
 	};
 	ticker(), setInterval(ticker, 1e4)
