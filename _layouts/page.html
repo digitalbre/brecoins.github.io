@@ -1,0 +1,58 @@
+---
+layout: page
+---
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+<title>{{ page.windowtitle }}</title>
+<meta name="description" content="{{ page.description }}"/>
+{% include head.html %}
+<style type="text/css">
+h3 {
+	font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+    color: #96192f;
+    font-size: 26px;
+}
+</style>
+</head>
+
+<body>
+{% include nav.html %}
+<div class="intros">
+  <div class="intro_bg_{{ page.image }}"> 
+    
+    <!-- BLOCO TÍTULO COM IMAGEM -->
+    <section class="no-padding  quem-somos">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <h1 class="montserrat-light branco text-center titulo-com-imagem font-size-60" style="text-transform: uppercase">{{ page.title }}</h1>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- BLOCO TÍTULO COM IMAGEM END --> 
+    
+  </div>
+</div>
+
+<!-- CONTEÚDO -->
+<section class="no-padding margin-top"{% if page.div_id %} id="{{ page.div_id }}"{% endif %}>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+      	{{ content }}
+      </div>
+    </div>
+    {% if page.signupbutton != 'no' %}
+    <div class="row">
+      <div class="col-md-12"> <a class="btn-padrao montserrat-semi text-center font-size-20" href="https://broker.brecoins.com.br/?p=signup" rel="nofollow">CADASTRE-SE</a> </div>
+    </div>
+    {% endif %}
+  </div>
+</section>
+
+{% include footer.html %}
+</body>
+</html>

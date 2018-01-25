@@ -1,0 +1,871 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:100,300,400,400i,500,500i,600,600i,700,700i,800');
+@import url('https://fonts.googleapis.com/css?family=Muli:300i,400,600,700');
+
+/*
+==============================================
+                  GERAL
+==============================================
+
+*/
+
+@font-face {
+ font-family:DINPro;
+ font-weight:400;
+ src:url(/assets/fonts/DINPro.otf)
+}
+@font-face {
+ font-family:DINPro;
+ font-weight:bolder;
+ src:url(/assets/fonts/DINPro-Black.otf)
+}
+@font-face {
+ font-family:DINPro;
+ font-weight:700;
+ src:url(/assets/fonts/DINPro-Bold.otf)
+}
+@font-face {
+ font-family:DINPro;
+ font-weight:lighter;
+ src:url(/assets/fonts/DINPro-Light.otf)
+}
+@font-face {
+ font-family:DINPro;
+ font-weight:500;
+ src:url(/assets/fonts/DINPro-Medium.otf)
+}
+
+html, body {
+	height: 100%;
+	width: 100%;
+	
+	
+}
+
+.nav > li > a:focus, 
+.nav > li > a:hover {
+background:none;	
+}
+
+a:hover,
+a:focus,
+a:active {
+	color:inherit;
+	text-decoration:none;
+		
+}
+
+h1 {
+	font-size:26px;
+}
+
+h2 {
+	font-size:18px;
+}
+
+h3 {
+	font-size:26px;
+}
+
+p {
+	font-family: 'Muli', sans-serif;
+	font-size:14px;
+	color:#959595;
+	margin-bottom:35px;
+}
+
+img {
+	max-width:100%;
+}
+
+.btn-padrao {
+    background: #11c28e;
+    padding: 10px 70px;
+    color: #FFF;
+    border-radius: 10px;
+    margin: 0 auto;
+	max-width:300px;
+	display:block;
+	margin-top:50px;
+}
+
+
+.btn-padrao:hover,
+.btn-padrao-no-margin:hover,
+.btn-padrao-small:hover {
+	color:#FFF;
+	background: #11c28e !important;
+}
+
+.btn-padrao-no-margin {
+    background: #11c28e;
+    padding: 10px 70px;
+    color: #FFF;
+    border-radius: 10px;
+    margin: 0 auto;
+	max-width:300px;
+	display:block;
+	margin-top:0px;
+}
+
+.btn-padrao-small {
+    background: #11c28e;
+    color: #FFF;
+    border-radius: 5px;
+    margin: 0 auto;
+    margin-top: 0px;
+    width: 130px;
+    height: 30px;
+    line-height: 30px;
+    display: block;
+    margin-top: 5px;
+    float: left;
+}
+
+.cinza {
+	color:#959595;
+}
+
+.branco {
+	color: #FFF;	
+}
+
+.escuro {
+	color:#231f20;
+}
+
+.verde {
+	color:#11c28e;	
+}
+
+.vermelho {
+	color:red;	
+}
+
+.vinho {
+	color:#96192f;	
+}
+
+.titulo {
+    text-align: center;
+    padding: 80px;
+}
+
+.titulo-com-imagem {
+	padding-top: 240px;	
+}
+
+#video-background {
+position: absolute;
+  right: 0; 
+  bottom:0;
+  min-width: 100%; 
+  min-height: 100%;
+  width: auto; 
+  height: auto;
+  z-index: 0;
+}
+
+.bg {background:#000;width:100%;height:100%;}
+
+.anchor {
+    display: block;
+    height: 120px;
+    margin-top: -120px;
+    visibility: hidden;
+}
+
+.intro_bg_taxas {
+	width: 100%;
+    height: 550px;
+	background: url(/assets/img/img-taxas.jpg);
+    background-position:center center;
+    background-size:cover;
+    transform:scale(1);
+    transition:all 25s ease-in;
+}
+
+.intro_bg_termos {
+	width: 100%;
+    height: 550px;
+	background: url(/assets/img/img-termos.jpg);
+    background-position:center center;
+    background-size:cover;
+    transform:scale(1);
+    transition:all 25s ease-in;
+}
+
+#termos h4 {
+    margin-bottom: 35px;
+    font-size: 18px;
+    font-family: Montserrat;
+    font-weight: 800;
+}
+
+.margin-top {margin-top:35px;}
+
+.efeito {
+	opacity:0;	
+}
+
+/*
+==============================================
+              HEADER/MENU
+==============================================
+*/
+
+.logo {
+    background: url('/assets/img/logo-brecoins-branco.png') no-repeat center center;
+    background-size: auto auto;
+    height: 37px;
+    display: block;
+    width: 170px !important;
+    background-size: cover;
+}
+
+.navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand {
+	margin-left:0 !important;	
+}
+
+.navbar-brand {
+	padding:15px 0 !important;	
+}
+
+.navbar-header {
+	background:none;
+    padding-top: 30px;
+}
+
+.navbar-left {
+	padding-top: 22px !important;
+	margin-left: 35px;
+}
+
+header {
+	height:100px;
+	position:fixed;
+	width:100%;	
+	transition: all 200ms linear;
+	z-index:9999;
+}
+
+.navbar-brand {
+	/*padding: !important;*/	
+}
+
+.navbar-right {
+	padding-top:30px;	
+}
+
+.navbar-brand, .navbar-nav > li > a {
+	color:#FFF;
+	font-family: 'Montserrat', sans-serif;
+    font-weight: 400;	
+	font-size:18px;
+}
+
+.navbar-nav > li > a:hover,
+.login:hover {
+	background:none;
+	color:#FFF;	
+}
+
+.img-responsive.logo {
+	width: 100%;
+	height: 100%;
+}
+.navbar-brand {
+	PADDING: 10PX;
+}
+.navbar-light a {
+	color: #FFF;
+}
+
+#menu nav ul li {
+	float:left;
+	list-style:none;	
+}
+
+#menu nav ul li a {
+	font-weight:bold;
+	color:#FFF;
+	padding:5px 20px;
+	text-decoration:none;
+	text-transform:uppercase;	
+}
+
+#menu nav ul li {
+	float:left;
+	list-style:none;	
+}
+
+.menu-branco #menu nav ul li a {
+	font-weight:bold;
+	color:#000;
+	padding:5px 20px;
+	text-decoration:none;
+	text-transform:uppercase;	
+}
+
+.menu-branco a.login {
+	color:#11c28e;
+	padding:10px;	
+	display:block;
+}
+
+.menu-branco.cadastro {
+	background:#11c28e;
+	border-radius:25px;
+	color:#FFF;
+	padding:10px;
+	display:block;	
+}
+
+
+.menu-branco {
+    background: #FFF;
+    z-index: 9999;
+	transition: all 200ms linear;
+	-webkit-box-shadow: 0px 0px 8px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 0px 0px 8px 0px rgba(0,0,0,0.75);
+	box-shadow: 0px 0px 8px 0px rgba(0,0,0,0.75);
+}
+
+.menu-branco .logo {
+    background: url('/assets/img/logo-brecoins-escuro.png') no-repeat center center;
+    background-size: auto auto;
+    height: 37px;
+    display: block;
+    width: 170px !important;
+    background-size: cover;
+}
+
+.menu-branco a.logo {
+    background: url('/assets/img/logo-brecoins-escuro.png') no-repeat center center;
+}
+
+.menu .navbar-brand, .navbar-nav > li > a {
+    color: #FFF;
+}
+
+.menu-branco .navbar-nav > li > a {
+    color: #000;
+}
+
+.login {
+	color:#FFF;
+	float:left;
+	padding:10px;	
+	display:block;
+}
+
+
+/*
+==============================================
+                  FOOTER
+==============================================
+*/
+
+
+#pre-footer {
+	background: #231f20;
+	padding: 75px 0;
+	margin-top:150px;
+}
+#pre-footer .text-uppercase {
+	margin-bottom:15px;	
+}
+#social-footer {
+	background: #231f20;
+	border-top: 1px solid #302b2c;
+	padding: 30px 0;
+}
+footer {
+	padding: 30px;
+	background: #302b2c;
+	color: #FFF;
+}
+.color-text-footer {
+	color: #706f70;
+}
+
+.btn-circle {
+    background: #4d4b4c;
+    border-color: #4d4b4c;
+    text-shadow: none;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    padding: 8px 0;
+    font-size: 20px;
+    line-height: 1.628571429;
+    border-radius: 20px;
+    color: #231f20;
+}
+
+
+/*
+==============================================
+                  FONTS
+==============================================
+*/
+
+
+.font-size-60 {
+	font-size:60px;	
+}
+
+.font-size-18 {
+	font-size:18px;	
+}
+
+.font-size-20 {
+	font-size:20px;	
+}
+
+.font-size-22 {
+	font-size:18px;	
+}
+
+
+.muli {
+	font-family: 'Muli', sans-serif;	
+}
+
+.montserrat-light {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 100;
+    
+}
+
+.montserrat-regular {
+	font-family: 'Montserrat', sans-serif;;
+	font-weight:400;
+}
+
+.montserrat-semi {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    
+}
+
+.montserrat-extra {
+	font-family: 'Montserrat', sans-serif;;
+	font-weight:800;
+}
+
+/*
+==============================================
+                 HOME
+==============================================
+*/
+
+.intro {
+    width: 100%;
+    height:100%;
+    overflow:hidden;
+}
+.intro_bg {
+    width: 100%;
+    height: 100%;
+    background-position:center center;
+    background-size:cover;
+    transform:scale(1);
+    transition:all 25s ease-in;
+	z-index:99;
+}
+
+.bg {
+    background: #000;
+    width: 100%;
+    height: 100%;
+    opacity: 0.8;
+    position: ;
+    position: absolute;
+    z-index: 0;
+}
+
+
+#variacao {
+	position:absolute;
+	bottom:50px;
+	width:100%;
+}
+
+.intro h2 {
+    margin-top: 80px;
+	font-size:40px;
+	font-family: DINPro;
+}
+
+.intro_bg.zin {
+    transform:scale(1.7) rotate(0.1deg);
+}
+
+.intro_bg.zout {
+    transform:scale(1);
+}
+
+.jumbotrons {
+	background-color: inherit;
+	position: relative;
+	padding-top:100px;
+	z-index:999;
+    
+}
+
+#bloco-bitcoin {
+    padding-top: 150px;
+}
+
+#texto-bitcoin h1 span {
+	display:block;
+	margin-bottom:10px;
+	font-size:18px;	
+}
+
+#texto-bitcoin h1 {
+	color: #231f20;
+	display:block;
+    font-size: 80px;
+    line-height: 0.8;
+	margin:0 0 35px 0;
+}
+
+.btn-saiba-mais {
+	color:#11c28e;	
+}
+
+
+#bloco-cta {
+	background: url('/assets/img/bg-cta-home.png') no-repeat center center;
+	height:495px;
+}
+
+#bloco-cta h3 {
+	font-size:40px;
+	margin-top:190px;	
+}
+
+#bloco-icones {
+    padding: 145px 0;
+}
+
+
+#bloco-icones span {
+	font-size:28px;
+	display:block;
+	width:100%;
+	margin-top:15px;
+}
+
+.circle {
+    background-color:#fff;
+    border:1px solid #96192f;    
+    height:60px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+	margin: 10px 0 0 auto;
+    width:60px;
+}
+
+/*
+==============================================
+                 FAQ
+==============================================
+*/
+
+.intro_bg_faq {
+	width: 100%;
+    height: 550px;
+	background: url(/assets/img/img-faq.jpg);
+    background-position:center center;
+    background-size:cover;
+    transform:scale(1);
+    transition:all 25s ease-in;
+}
+
+#faq span.escuro {
+	padding-top: 100px;
+	display: block;
+	border-bottom: 1px solid #959595;
+	padding-bottom: 10px;
+}
+
+#faq ul li {
+    list-style: none;
+    border-bottom: 1px solid #959595;
+    padding: 15px 0;
+}
+
+#faq ul {
+	padding:0;	
+}
+
+#faq-content p a,
+#faq-content p a:hover {
+	text-decoration:underline;
+	color:inherit;	
+}
+
+.link-faq {
+    margin: 70px 0;
+    display: block;
+}
+
+/*
+==============================================
+                 QUEM SOMOS
+==============================================
+*/
+
+.intro_quem_somos {
+    width: 100%;
+    height:550px;
+    overflow:hidden;
+}
+
+.intro_bg_quem_somos {
+	width: 100%;
+    height: 550px;
+	background: url(/assets/img/img-quem-somos.jpg);
+    background-position:center center;
+    background-size:cover;
+    transform:scale(1);
+    transition:all 25s ease-in;
+}
+
+/*
+==============================================
+              RESPONSIVO
+==============================================
+*/
+
+@media screen and (max-width: 1920px) {
+	.intro h2 { margin-top:260px;margin-bottom:75px}
+	#leao-topo {margin-bottom:75px;}
+	.col-sm-offset-1 { margin-left:0;}
+}
+
+@media screen and (max-width: 1680px) {
+	.intro h2 { margin-top:220px;margin-bottom:50px}
+	#leao-topo {margin-bottom:50px;}
+}
+
+@media screen and (max-width: 1600px) {
+	.intro h2 { margin-top:180px;margin-bottom:50px}
+	#leao-topo {margin-bottom:50px;}
+}
+
+@media screen and (max-width: 1440px) {
+	.intro h2 { margin-top:150px;}
+}
+
+@media screen and (max-width: 1366px) {
+		.intro h2 { margin-top:50px;margin-bottom:20px}
+	#leao-topo {margin-bottom:20px;}
+}
+
+@media screen and (max-width: 1280px) {
+		.intro h2 { margin-top:110px;margin-bottom:20px}
+	#leao-topo {margin-bottom:20px;}
+}
+
+@media screen and (max-width: 1080px) {
+	.navbar-brand, .navbar-nav > li > a {
+		font-size:15px;	
+	}
+	
+	.font-size-60 {font-size:55px}
+}
+
+
+@media screen and (max-width: 980px) {
+.navbar-header {
+	background:#FFF;
+	padding-top: 15px;
+    padding-left: 15px !important;	
+}
+
+.navbar-header .logo {
+	background: url('/assets/img/logo-brecoins-escuro.png') no-repeat center center;
+}
+
+header {
+	height:70px;	
+}
+
+.navbar-toggle {
+	background: url('/assets/img/hamburg.svg') no-repeat center center;
+	margin-top:0;
+}
+
+#brecoins-navbar-collapse {
+    background: #FFF;
+	padding-bottom: 50px;
+}
+
+#brecoins-navbar-collapse ul li a,
+#brecoins-navbar-collapse .login {
+	color:#000;
+}
+
+.login.montserrat-regular.text-uppercase {
+    text-indent: 3px;
+	font-size:18px;
+	float:left;
+	width:100%
+}
+
+.btn-padrao-small.montserrat-semi.text-center {
+    margin-left: 10px;
+}
+
+.navbar-left {
+	margin-left:0;	
+	width:100%;
+}
+
+.navbar-left li {
+	width:100%;	
+}
+
+
+.navbar-brand, 
+.navbar-nav > li > a {
+	font-size:18px;	
+}
+
+.navbar-right {
+	padding-top:0;	
+	widt:100% !important;
+	float:left !important;
+}
+	#leao-topo {
+		margin:75px 0 15px 0;	
+	}
+	
+	.navbar-collapse.collapse {
+        display: none!important;
+    }
+	
+	.collapse.in{
+        display:block !important;
+    }
+	
+	.navbar-toggle {
+		display:block;	
+	}
+	
+	#menu {
+		background:#FFF;	
+	}
+	
+	.container-fluid > .navbar-collapse, 
+	.container-fluid > .navbar-header, 
+	.container > .navbar-collapse, 
+	.container > .navbar-header {
+		width:100%;
+	}
+	
+	#img-bitcoin {
+    	text-align: center;
+    	margin-bottom: 50px;
+	}
+	
+	.circle {
+		height: 50px;
+		width:50px;
+		border-radius:25px;	
+	}
+	
+	#bloco-icones span {
+		margin-top:10px;	
+	}
+	#video-background { display:none}
+	.intro_bg {background: url(/assets/img/slide.jpg);}
+	.intro h2 { margin:0 auto;max-width:600px;}
+	.col-sm-offset-1 {margin-left: 8.33333333%;}
+	.hide-mobile { display:none;}
+	#variacao {bottom:20px;}
+	
+}
+
+@media screen and (max-width: 768px) {
+.hide-mobile { display:block ;}
+}
+
+@media screen and (max-width: 736px) {
+	.hide-mobile { display:none;}
+	#leao-topo { margin-top:0;}
+	
+	.col-xsl-6 { width:50% ;}
+	.col-xsl-5 { width:41.66666667%;}
+	.col-xsl-4 { width:33.33%;}
+	.col-xsl-1 { width:8.33333333%;}
+	.font-size-60 {font-size:45px;}
+	#valores h5 { margin:0}
+	p { margin-bottom:20px;}	
+}
+
+@media screen and (max-width: 667px) {
+	#variacao {bottom: 15px;}
+	#bloco-cta h3 {margin-top:150px;}
+}
+
+@media screen and (max-width: 640px) {
+	.col-xsl-6 { width:50% !important;}
+	.col-xsl-4 { width:33.33% !important;}
+	.font-size-60 {font-size:34px;}
+}
+
+@media screen and (max-width: 600px) {
+	.font-size-60 { font-size:38px;}
+		.col-xs-12 { width:100% !important}
+	.col-xs-3 {width: 25%;}
+	.col-xs-9 {width: 75%;}
+	
+	
+}
+
+@media screen and (max-width: 568px) {
+	.col-xsl-6 { width:50% !important;}
+	.col-xsl-4 { width:33.33% !important;}
+	.font-size-60 {font-size:34px;}
+	.link-faq {
+    margin: 70px 0;
+    display: block;
+}
+}
+
+@media screen and (max-width: 480px) {
+	.col-xs-12 { width:100% !important}
+	.col-xs-3 {width: 25%;}
+	.col-xs-9 {width: 75%;}
+	.text-left,
+	.text-right { text-align:center;}
+	.circle {height: 60px;width: 60px;border-radius: 30px;padding-top: 5px;}
+}
+
+@media screen and (max-width: 414px) {
+#texto-bitcoin h1 {
+    font-size: 70px;
+}
+#valores {
+    margin-top: 35px;
+}
+.bg {display:none}
+}
+
+@media screen and (max-width: 375px) {
+#valores {
+    margin-top: 60px;
+}
+}
+
+@media screen and (max-width: 384px) {
+.font-size-20 {
+    font-size: 17px;
+}
+#texto-bitcoin h1,h2 {font-size:60px}
+}

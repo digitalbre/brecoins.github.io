@@ -1,0 +1,200 @@
+---
+# Home page
+---
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+<title>BRE Coins</title>
+<meta name="description" content=""/>
+{% include head.html %}
+
+</head>
+
+<body>
+{% include nav.html %}
+<!-- BLOCO TÍTULO COM IMAGEM -->
+<div class="intro no-padding">
+
+	<video autoplay loop id="video-background" plays-inline>
+		<source src="/assets/video/bg-home.mp4" type="video/mp4" playsinline webkit-playsinline autoplay muted loop>
+	</video>
+    
+    <div class="bg">
+</div>
+
+<div class="intro_bg">
+<div class="jumbotrons no-padding">
+ <div class="container">
+ 
+    <div class="row hide-mobile">
+      <div class="col-xs-12 col-sm-12 col-md-12">
+      	<h2 class="muli branco text-center">Conectamos <strong>Você</strong> com Oportunidades Ilimitadas!</h2>
+      </div>   
+    </div>
+    
+    <div class="row hide-mobile">
+      <div class="col-sm-12 col-md-12 text-center" id="leao-topo">
+           <img src="/assets/img/leao-brecoins.png" alt="Leão ícone da BRE Coins – cotação para comprar ou vender bitcoins – faça sua carteira" />
+      </div>
+    </div>
+    
+    <div class="row iefeito" id="valores">
+    
+      
+      <div class="col-xs-12 col-xsl-6 col-md-5 .col-md-offset-right-1 text-center">
+      	<h5 class="branco font-size-22"><span class="montserrat-regular">COMPRA</span> <i class="fa fa-btc" aria-hidden="true"></i></h5>
+        <p class="branco montserrat-extra font-size-60"><span class="montserrat-light">R$</span><span data-var="sell"></span></p>
+      </div>
+      
+      <div class="col-xs-12 col-xsl-6 col-md-5 col-md-offset-1 text-center">
+      	<h5 class="branco font-size-22"><span class="montserrat-regular">VENDA</span> <i class="fa fa-btc" aria-hidden="true"></i></h5>
+        <p class="branco montserrat-extra font-size-60"><span class="montserrat-light">R$</span><span data-var="buy"></span></p>
+      </div>
+      
+    </div>
+    
+    <div class="row">
+      <div class="col-sm-12 col-md-12">
+            <a class="btn-padrao-no-margin montserrat-semi text-center font-size-20" href="https://broker.brecoins.com.br/?p=signup" rel="nofollow">CADASTRE-SE</a>
+      </div>
+    </div>
+   
+  </div>
+
+</div><!--jumbotron -->
+<div class="container" id="variacao">
+  
+      <div class="col-xs-12 col-xsl-4 col-sm-4 col-md-5 text-right">
+        <div class="branco montserrat-regular font-size-18 hint--top" aria-label="Volume de Bitcoins negociado nas últimas 24hs!"><span class="verde montserrat-extra"> <i class="fa fa-btc" aria-hidden="true"></i></span> <span data-var="volume_btc"></span></div>
+      </div>
+      
+      <div class="col-xs-12 col-xsl-4 col-sm-4 col-md-2 text-center">
+        
+      	<div class="branco montserrat-regular font-size-18 hint--top" aria-label="Volume em reais negociado nas últimas 24hs!"><span class="verde montserrat-extra"> R$</span> <span data-var="volume_brl"></span></div>
+      </div>
+      
+      <div class="col-xs-12 col-xsl-4 col-sm-4 col-md-5 text-left">
+        <div class="branco montserrat-regular font-size-18 hint--top" aria-label="Variação do Bitcoin nas últimas 24hs!"><span class="verde montserrat-extra <?php if ( $variacao < 0 ) { echo 'vermelho';}?>"><i class="fa fa-clock-o" aria-hidden="true"></i> &Delta; </span> <span data-var="variacao"></span>%</div>
+        
+      </div>
+  </div>
+  
+   
+</div> 
+    </div>
+    
+</div>
+<!-- BLOCO TÍTULO COM IMAGEM END -->
+
+
+<!-- BLOCO DIFERENCIAIS -->
+<section class="no-padding" id="bloco-icones">
+<div id="diferenciais" class="anchor"></div>
+  <div class="container">
+    <div class="row">
+     <div class="col-md-4 col-sm-12">
+     <div class="row">
+      <div class="col-xs-3 col-xsl-1 col-sm-1 col-md-3 efeito">
+        	<div class="circle"><span class="text-center vinho"><i class="fa fa-lock" aria-hidden="true"></i></span></div>
+      </div>
+      <div class="col-xs-9 col-xsl-5 col-sm-5 col-md-9 efeito delay-250" data-id='1'>
+      		<h4 class="montserrat-extra escuro">SEGURANÇA</h4>
+        	<p>Oferecemos uma plataforma em que o usuário usufrui do nível mais elevado de cyber-segurança para realizar suas operações.</p>
+      </div>
+      
+     
+       <div class="col-xs-3 col-xsl-1 col-sm-1 col-md-3 efeito">
+        <div class="circle"><span class="text-center vinho"><i class="fa fa-file-text-o" aria-hidden="true"></i></span></div>
+      </div>
+      <div class="col-xs-9 col-xsl-5 col-sm-5 col-md-9 efeito">
+      		<h4 class="montserrat-extra escuro">DIVERSIDADE DE ORDENS</h4>
+        	<p>A plataforma brasileira com a maior variedade de ordens: Ordem de Mercado, Ordem de Stop, Ordem Fill or Kill, Ordem Iceberg.</p>
+      </div>
+      
+      </div>
+   </div>
+    
+   <div class="col-md-4 col-sm-12"> 
+   
+   	<div class="col-xs-3 col-xsl-1 col-sm-1 col-md-3 efeito delay-500" data-id='2'>
+        	<div class="circle"><span class="text-center vinho"><i class="fa fa-handshake-o" aria-hidden="true"></i></span></div>
+      </div>
+      <div class="col-xs-9 col-xsl-5 col-sm-5 col-md-9 efeito delay-500" data-id='2'>
+      		<h4 class="montserrat-extra escuro">ATENDIMENTO PERSONALIZADO</h4>
+        	<p>Estamos conectados o tempo todo para garantir que você possa operar sem interrupções!</p>
+      </div>
+      
+      <div class="col-xs-3 col-xsl-1 col-sm-1 col-md-3 efeito">
+        	<div class="circle"><span class="text-center vinho"><i class="fa fa-file-code-o" aria-hidden="true"></i></span></div>
+      </div>
+      <div class="col-xs-9 col-xsl-5 col-sm-5 col-md-9 efeito">
+      		<h4 class="montserrat-extra escuro">ALGORITMOS</h4>
+        	<p>A única plataforma que lhe oferece liberdade para criar e utilizar seus próprios algoritmos e otimizar suas operações. </p>
+      </div>
+      
+   </div>
+   
+    <div class="col-md-4 col-sm-12">  
+    
+    <div class="col-xs-3 col-xsl-1 col-sm-1 col-md-3 efeito">
+        	<div class="circle"><span class="text-center vinho"><i class="fa fa-tasks" aria-hidden="true"></i></span></div>
+      </div>
+      <div class="col-xs-9 col-xsl-5 col-sm-5 col-md-9 efeito">
+      		<h4 class="montserrat-extra escuro">TECNOLOGIA</h4>
+        	<p>A nossa plataforma possui servidores com escalabilidade automática, o que assegura ao usuário o menor caminho para o tráfego de dados. </p>
+      </div>
+
+      
+      <div class="col-xs-3 col-xsl-1 col-sm-1 col-md-3 efeito">
+        	<div class="circle"><span class="text-center vinho"><i class="fa fa-line-chart" aria-hidden="true"></i></span></div>
+      </div>
+      <div class="col-xs-9 col-xsl-5 col-sm-5 col-md-9 efeito">
+      		<h4 class="montserrat-extra escuro">TRADER AVANÇADO</h4>
+        	<p>Ferramentas especialmente projetadas para maximizar a performance dos traders profissionais.</p>
+      </div>
+    </div>
+   
+  </div> 
+  </div>   
+</section>
+<!-- BLOCO CTA END -->
+
+<!-- BLOCO CTA -->
+<section class="no-padding" id="bloco-cta">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12 col-md-12">
+        	<h3 class="muli branco text-center efeito">CONHEÇA NOSSA PLATAFORMA</h3>
+            <a class="btn-padrao montserrat-semi text-center font-size-20 efeito" href="https://broker.brecoins.com.br/?p=signup" rel="nofollow">CADASTRE-SE</a>
+      </div>
+    </div>
+  </div>   
+</section>
+<!-- BLOCO CTA END -->
+
+<!-- BLOCO O QUE É BITCOIN -->
+<section class="no-padding" id="bloco-bitcoin">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12 col-md-7 efeito" id="img-bitcoin">
+        	<img src="/assets/img/img-o-que-e-bitcoin.png" alt="Saiba o que é Bitcoin" />
+      </div>
+      
+      <div class="col-sm-10 col-sm-offset-1 col-md-5 efeito" id="texto-bitcoin">
+      		<h1 class="montserrat-extra"><span class="montserrat-extra vinho">O QUE É</span>BITCOIN</h1>
+            <p>É uma moeda virtual e descentralizada. Não há uma instituição financeira ou governamental por trás. Todas as transações são feitas de uma parte para a outra, sem intermediários.</p>
+
+            <p>Bitcoin é a mais famosa das criptomoedas (moedas cujas operações funcionam por criptografia) e surgiu em 2009. O código principal foi desenvolvido por Satoshi Nakamoto, que recebeu contribuições de diversos programadores.</p>
+            <a class="btn-saiba-mais" href="/faq/">Saiba mais</a> 
+      </div>
+    </div>
+  </div>   
+</section>
+<!-- BLOCO O QUE É BITCOIN END -->
+
+
+{% include footer.html %}
+<script src="https://cdn.rawgit.com/openexchangerates/accounting.js/master/accounting.min.js"></script>
+<script src="/assets/js/home.js"></script>
+</body>
+</html>
