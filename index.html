@@ -74,7 +74,7 @@
       </div>
       
       <div class="col-xs-12 col-xsl-4 col-sm-4 col-md-5 text-left">
-        <div class="branco montserrat-regular font-size-18 hint--top" aria-label="Variação do Bitcoin nas últimas 24hs!"><span class="verde montserrat-extra <?php if ( $variacao < 0 ) { echo 'vermelho';}?>"><i class="fa fa-clock-o" aria-hidden="true"></i> &Delta; </span> <span data-var="variacao"></span>%</div>
+        <div class="branco montserrat-regular font-size-18 hint--top" aria-label="Variação do Bitcoin nas últimas 24hs!"><span class="montserrat-extra delta">&Delta; </span> <span data-var="variacao"></span>%</div>
         
       </div>
   </div>
@@ -92,65 +92,55 @@
 <div id="diferenciais" class="anchor"></div>
   <div class="container">
     <div class="row">
-     <div class="col-md-4 col-sm-12">
-     <div class="row">
-      <div class="col-xs-3 col-xsl-1 col-sm-1 col-md-3 efeito">
-        	<div class="circle"><span class="text-center vinho"><i class="fa fa-lock" aria-hidden="true"></i></span></div>
+      <div class="col-md-1 col-sm-2 col-xs-4 efeito">
+          <div class="circle"><span class="text-center vinho"><i class="fa fa-lock" aria-hidden="true"></i></span></div>
       </div>
-      <div class="col-xs-9 col-xsl-5 col-sm-5 col-md-9 efeito delay-250" data-id='1'>
-      		<h4 class="montserrat-extra escuro">SEGURANÇA</h4>
-        	<p>Oferecemos uma plataforma em que o usuário usufrui do nível mais elevado de cyber-segurança para realizar suas operações.</p>
-      </div>
-      
-     
-       <div class="col-xs-3 col-xsl-1 col-sm-1 col-md-3 efeito">
-        <div class="circle"><span class="text-center vinho"><i class="fa fa-file-text-o" aria-hidden="true"></i></span></div>
-      </div>
-      <div class="col-xs-9 col-xsl-5 col-sm-5 col-md-9 efeito">
-      		<h4 class="montserrat-extra escuro">DIVERSIDADE DE ORDENS</h4>
-        	<p>A plataforma brasileira com a maior variedade de ordens: Ordem de Mercado, Ordem de Stop, Ordem Fill or Kill, Ordem Iceberg.</p>
-      </div>
-      
-      </div>
-   </div>
-    
-   <div class="col-md-4 col-sm-12"> 
-   
-   	<div class="col-xs-3 col-xsl-1 col-sm-1 col-md-3 efeito delay-500" data-id='2'>
-        	<div class="circle"><span class="text-center vinho"><i class="fa fa-handshake-o" aria-hidden="true"></i></span></div>
-      </div>
-      <div class="col-xs-9 col-xsl-5 col-sm-5 col-md-9 efeito delay-500" data-id='2'>
-      		<h4 class="montserrat-extra escuro">ATENDIMENTO PERSONALIZADO</h4>
-        	<p>Estamos conectados o tempo todo para garantir que você possa operar sem interrupções!</p>
-      </div>
-      
-      <div class="col-xs-3 col-xsl-1 col-sm-1 col-md-3 efeito">
-        	<div class="circle"><span class="text-center vinho"><i class="fa fa-file-code-o" aria-hidden="true"></i></span></div>
-      </div>
-      <div class="col-xs-9 col-xsl-5 col-sm-5 col-md-9 efeito">
-      		<h4 class="montserrat-extra escuro">ALGORITMOS</h4>
-        	<p>A única plataforma que lhe oferece liberdade para criar e utilizar seus próprios algoritmos e otimizar suas operações. </p>
-      </div>
-      
-   </div>
-   
-    <div class="col-md-4 col-sm-12">  
-    
-    <div class="col-xs-3 col-xsl-1 col-sm-1 col-md-3 efeito">
-        	<div class="circle"><span class="text-center vinho"><i class="fa fa-tasks" aria-hidden="true"></i></span></div>
-      </div>
-      <div class="col-xs-9 col-xsl-5 col-sm-5 col-md-9 efeito">
-      		<h4 class="montserrat-extra escuro">TECNOLOGIA</h4>
-        	<p>A nossa plataforma possui servidores com escalabilidade automática, o que assegura ao usuário o menor caminho para o tráfego de dados. </p>
+      <div class="col-md-3 col-sm-4 col-xs-8 efeito delay-250" data-id='1'>
+          <h4 class="montserrat-extra escuro">SEGURANÇA</h4>
+          <p>Única plataforma a oferecer a opção de Login com reconhecimento facial para sua maior segurança.</p>
       </div>
 
-      
-      <div class="col-xs-3 col-xsl-1 col-sm-1 col-md-3 efeito">
-        	<div class="circle"><span class="text-center vinho"><i class="fa fa-line-chart" aria-hidden="true"></i></span></div>
+      <div class="col-md-1 col-sm-2 col-xs-4 efeito delay-500" data-id='2'>
+          <div class="circle"><span class="text-center vinho"><i class="fa fa-handshake-o" aria-hidden="true"></i></span></div>
       </div>
-      <div class="col-xs-9 col-xsl-5 col-sm-5 col-md-9 efeito">
-      		<h4 class="montserrat-extra escuro">TRADER AVANÇADO</h4>
-        	<p>Ferramentas especialmente projetadas para maximizar a performance dos traders profissionais.</p>
+      <div class="col-md-3 col-sm-4 col-xs-8 efeito delay-500" data-id='2'>
+          <h4 class="montserrat-extra escuro">ATENDIMENTO PERSONALIZADO</h4>
+          <p>Estamos conectados o tempo todo para garantir que você possa operar sem interrupções!</p>
+      </div>
+
+      <div class="col-md-1 col-sm-2 col-xs-4 efeito">
+          <div class="circle"><span class="text-center vinho"><i class="fa fa-tasks" aria-hidden="true"></i></span></div>
+      </div>
+      <div class="col-md-3 col-sm-4 col-xs-8 efeito">
+          <h4 class="montserrat-extra escuro">TECNOLOGIA</h4>
+          <p>A nossa plataforma possui servidores com escalabilidade automática, para assegurar ao usuário rapidez e melhor up time. </p>
+      </div>
+    <!-- </div>
+
+    <div class="row"> -->
+      <div class="col-md-1 col-sm-2 col-xs-4 efeito">
+        <div class="circle"><span class="text-center vinho"><i class="fa fa-file-text-o" aria-hidden="true"></i></span></div>
+      </div>
+
+      <div class="col-md-3 col-sm-4 col-xs-8 efeito">
+          <h4 class="montserrat-extra escuro">DIVERSIDADE DE ORDENS</h4>
+          <p>A plataforma brasileira com a maior variedade de ordens: Ordem Limite, Ordem de Mercado e Ordem de Stop-Limite. Em breve: Ordem Fill or Kill e Ordem Iceberg.</p>
+      </div>
+
+      <div class="col-md-1 col-sm-2 col-xs-4 efeito">
+          <div class="circle"><span class="text-center vinho"><i class="fa fa-file-code-o" aria-hidden="true"></i></span></div>
+      </div>
+      <div class="col-md-3 col-sm-4 col-xs-8 efeito">
+          <h4 class="montserrat-extra escuro">ALGORITMOS</h4>
+          <p>A única plataforma que lhe oferece liberdade para criar e utilizar seus próprios algoritmos e otimizar seus lucros. </p>
+      </div>
+
+      <div class="col-md-1 col-sm-2 col-xs-4 efeito">
+          <div class="circle"><span class="text-center vinho"><i class="fa fa-line-chart" aria-hidden="true"></i></span></div>
+      </div>
+      <div class="col-md-3 col-sm-4 col-xs-8 efeito">
+          <h4 class="montserrat-extra escuro">TRADER AVANÇADO</h4>
+          <p>Ferramentas especialmente projetadas para maximizar a performance dos traders profissionais.</p>
       </div>
     </div>
    
@@ -195,6 +185,6 @@
 
 {% include footer.html %}
 <script src="https://cdn.rawgit.com/openexchangerates/accounting.js/master/accounting.min.js"></script>
-<script src="/assets/js/home.js"></script>
+<script src="/assets/js/home.js?v=20180128"></script>
 </body>
 </html>

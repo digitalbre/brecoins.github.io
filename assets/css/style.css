@@ -642,13 +642,13 @@ footer {
 */
 
 @media screen and (max-width: 1920px) {
-	.intro h2 { margin-top:260px;margin-bottom:75px}
+	.intro h2 { margin-top:200px;margin-bottom:75px}
 	#leao-topo {margin-bottom:75px;}
 	.col-sm-offset-1 { margin-left:0;}
 }
 
 @media screen and (max-width: 1680px) {
-	.intro h2 { margin-top:220px;margin-bottom:50px}
+	.intro h2 { margin-top:180px;margin-bottom:50px}
 	#leao-topo {margin-bottom:50px;}
 }
 
@@ -658,7 +658,7 @@ footer {
 }
 
 @media screen and (max-width: 1440px) {
-	.intro h2 { margin-top:150px;}
+	.intro h2 { margin-top:100px;}
 }
 
 @media screen and (max-width: 1366px) {

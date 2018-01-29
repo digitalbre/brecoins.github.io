@@ -9,18 +9,29 @@ $(document).ready(function () {
 		$('#video-background').remove(); 
 	 }
 	 
-	 if ( $(window).width() <= 800 ) {
+	 else if ( $(window).width() <= 800 ) {
 		 $('#video-background').remove(); 
+	 } else {
+	 	document.getElementById('video-background').playbackRate = 0.3;
 	 }
 
 
 	var ticker = function() {
 	    $.getJSON("https://backend.brecoins.com.br/ticker", function(t) {
+	    	var variacao = Number(100 - (t.last/(t.open/1e2) ));
 	        $("[data-var=sell]").text(accounting.formatMoney(t.sell / 1e2, "", 2, ".", ","));
 	        $("[data-var=buy]").text(accounting.formatMoney(t.buy / 1e2, "", 2, ".", ","));
 	        $("[data-var=volume_btc]").text(accounting.formatMoney(t.vol_crypto/1e8, "", 8, ",", "."));
 	        $("[data-var=volume_brl]").text(accounting.formatMoney(t.vol_fiat/1e2, "", 2, ".", ","));
-	        $("[data-var=variacao]").text(Number(100 - (t.last/(t.open/1e2) )).toFixed(1));
+	        $("[data-var=variacao]").text(variacao.toFixed(1).replace(".", ","));
+
+	        if(variacao==0) {
+	        	$(".delta").removeClass('verde vermelho');
+	        } else if(variacao>0) {
+	        	$(".delta").addClass("verde").removeClass("vermelho");
+	        } else if(variacao<0) {
+	        	$(".delta").addClass("vermelho").removeClass("verde");
+	        }
 	    })
 	};
 	ticker(), setInterval(ticker, 1e4)
