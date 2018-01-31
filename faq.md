@@ -19,12 +19,18 @@ GLOSSÁRIO
 *   [O que é FORK?](/faq/o-que-e-fork.html "O que é FORK?"){:.cinza}
 *   [O que são Altcoins?](/faq/o-que-sao-altcoins.html "O que são Altcoins?"){:.cinza}
 
+   
+   &nbsp;
+   
 {:.montserrat-extra.escuro}
 COMO USAR A PLATAFORMA
 
 {:.muli}
 *   [Como posso iniciar minhas operações na BRE COINS?](/faq/como-posso-iniciair-minhas-operacoes-na-bre-coins.html "Como posso iniciar minhas operações na BRE COINS?"){:.cinza}
 
+   
+   &nbsp;
+   
 {:.montserrat-extra.escuro}
 COMPRA E VENDA
 
@@ -35,6 +41,9 @@ COMPRA E VENDA
 *   [Como faço para cancelar uma transação?](/faq/como-faco-para-cancelar-uma-transacao.html "Como faço para cancelar uma transação?"){:.cinza}
 *   [Como realizar uma transferência entre carteiras?](/faq/como-realizar-uma-transferencia-entre-carteiras.html "Como realizar uma transferência entre carteiras?"){:.cinza}
 
+   
+   &nbsp;
+   
 {:.montserrat-extra.escuro}
 SEGURANÇA
 
@@ -43,6 +52,9 @@ SEGURANÇA
 *   [O que é autenticação de dois fatores?](/faq/o-que-e-autenticacao-de-dois-fatores.html "O que é autenticação de dois fatores?"){:.cinza}
 *   [Como posso deixar minha conta mais segura?](/faq/como-posso-deixar-minha-conta-mais-segura.html "Como posso deixar minha conta mais segura?"){:.cinza}
 
+   
+   &nbsp;
+   
 {:.montserrat-extra.escuro}
 DIVERSOS
 
