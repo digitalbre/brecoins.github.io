@@ -2,7 +2,7 @@
 title: Como posso iniciar minhas operações na BRE COINS?
 layout: faqpage
 ---
-1.  Primeiro, você precisa criar uma na BRE COINS. Clique aqui e crie uma conta agora mesmo!
+1.  Primeiro, você precisa criar uma conta na BRE COINS. Clique aqui e crie uma conta agora mesmo!
     
 2.  Após criar uma conta, envie os documentos solicitados. É rápido e fácil!
     
