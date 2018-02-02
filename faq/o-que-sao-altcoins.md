@@ -10,7 +10,7 @@ De acordo com o site coinmarketcap.com existem oficialmente mais de 1200 altcoin
 
 **FORK**
 
-Quando a comunidade de mineradores e desenvolvedores responsáveis pelo sistema bitcoin não chega a um consenso sobre uma modificação, atualização ou funcionalidade, podem decidir dividir-se, o que é conhecido como hard fork. Essa divisão acaba dando origem a uma nova moeda, como por exemplo no caso do Bitcoin Cash e do Bitcoin Gold. [Clique aqui](o-que-e-fork.html) e saiba mais sobre fork.
+Quando a comunidade de mineradores e desenvolvedores responsáveis pelo sistema bitcoin não chega a um consenso sobre uma modificação, atualização ou funcionalidade, podem decidir dividir-se, o que é conhecido como hard fork. Essa divisão acaba dando origem a uma nova moeda, como por exemplo no caso do Bitcoin Cash e do Bitcoin Gold. [Clique aqui e saiba mais sobre fork](o-que-e-fork.html).
 
 **ICO (Initial Public Offering)**
 
