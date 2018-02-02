@@ -8,17 +8,17 @@ A BRE Coins oferece os mais avançados tipos de ordens para que o trader possa m
 
 **Ordem de Mercado ou Ativa**
 
-Essa ordem é muito utilizada por causa da agilidade e rápida liquidez. Nela o usuário define a quantidade de moeda que deseja comprar ou vender. O preço é definido de acordo com o preço médio de mercado no momento da execução da ordem.
+Essa ordem é muito utilizada por causa da agilidade e rápida liquidez. Nela o usuário define a quantidade de moeda que deseja comprar ou vender e a ordem será executada imediamente pela(s) mais vantajosa(s) existentes no livro de ofertas.
 
 **Ordem Limite ou Passiva**
 
-Mais conhecida como ordem passiva, neste tipo de ordem o usuário limita a um determinado valor para que a ordem seja executada. Ela permanecerá aberta no livro de ordens até uma um comprador aceite o valor predefinido pelo vendedor.
+Mais conhecida como ordem passiva, neste tipo de ordem o usuário limita a um determinado valor para que a ordem seja executada. Ela permanecerá aberta no livro de ordens até que um ou mais usuários aceitem o valor predefinido pelo emissor da ordem.
 
 **OUTRAS ORDENS**
 
 **Ordem Stop-Limit**
 
-Nesta modalidade de ordem de venda ou **compra de bitcoin** se torna ativa apenas quando o valor predeterminado pelo usuário é alcançado. No caso das ordens de venda, podem ser utilizadas para proteger o trader contra grades perdas quando a moeda entrar num viés de baixa, visto que um piso é definido para que a ordem seja enviada automaticamente. Um ponto importante a ser lembrado é que a ordem stop será enviada ao livro de ofertas quando o valor de mercado atingir o valor stop, porém ela será executada pelo melhor valor abaixo do valor predefinido.
+Nesta modalidade de ordem de **venda** ou **compra de bitcoin** se torna ativa apenas quando o valor predeterminado pelo usuário é alcançado. No caso das ordens de venda, podem ser utilizadas para proteger o trader contra grades perdas quando a moeda entrar num viés de baixa, visto que um piso é definido para que a ordem seja enviada automaticamente. Um ponto importante a ser lembrado é que a ordem de compra ou venda será enviada ao livro de ofertas quando o valor de mercado atingir o valor stop, porém ela será executada pelo valor mais vantajoso para o usuário imediatamente abaixo do predefinido desde que haja ordem compatível no livro de ofertas.
 
 **ORDENS EM ELABORAÇÃO**
 
