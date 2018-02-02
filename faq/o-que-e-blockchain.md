@@ -7,4 +7,4 @@ Podemos definir o que é blockchain como sendo uma tecnologia onde os dados são
 
 *Note que Blockchain e o serviço Blockchain.info não são sinônimos. “Blockchain” é uma tecnologia descentralizada, ao passo que o site Blockchain.info é um website, de nome similar, controlado pela empresa Blockchain Luxembourg S.A, que fornecem serviços de carteira de criptomoedas, mas que não são detentores do nome ou do protocolo da Blockchain.*
 
-Gostaria de saber [como funciona o Bloackchain?](como-funciona-o-blockchain.html)
+Gostaria de saber [como funciona o Blockchain?](como-funciona-o-blockchain.html)
