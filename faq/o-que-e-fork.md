@@ -1,5 +1,7 @@
 ---
 title: O que é Fork?
+seotitle: O que é Fork bitcoin?
+description: Fork é a atualização realizada no protocolo ou código de uma criptomoeda. Existe hard e soft fork, acesse e saiba mais detalhes.
 layout: faqpage
 ---
 Os forks são atualizações realizadas no protocolo ou código de uma criptomoeda. Um fork normalmente acontece com o objetivo de trazer algum aprimoramento para o código de uma moeda digital. Eles podem ocorrer de duas formas diferentes: Soft Fork ou Hard Fork. O que são e qual é a principal diferença entre eles?
