@@ -1,5 +1,6 @@
 ---
-title: O que é uma carteira de bitcoin (wallet)?
+title: O que é uma carteira de bitcoin ou wallet?
+description: Entenda o que  uma carteira de bitcoin ou wallet. Quais são os tipos de carteiras e suas principais características. Acesse e saiba mais.
 layout: faqpage
 ---
 Carteira ou wallet é um local onde o usuário armazena as chaves privadas que dão acesso as suas moedas digitais. Elas são classificadas como hot (quente), carteiras on-line necessitando assim de internet para seu funcionamento, ou cold (fria), carteiras que funcionam off-line.
