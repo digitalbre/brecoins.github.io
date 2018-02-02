@@ -27,7 +27,7 @@ COMO USAR A PLATAFORMA
 
 {:.muli}
 *   [Como posso iniciar minhas operações na BRE COINS?](/faq/como-posso-iniciair-minhas-operacoes-na-bre-coins.html "Como posso iniciar minhas operações na BRE COINS?"){:.cinza}
-*   [Como aumentar meus limites de saque e depósito?](/faq/como-realizar-uma-transferencia-entre-carteiras.html "Como aumentar meus limites de saque e depósito?"){:.cinza}
+* [Como aumentar meus limites de saque e depósito?](/faq/como-aumentar-meus-limites-de-saque-e-deposito.html "Como aumentar meus limites de saque e depósito?"){:.cinza}
 
    
    &nbsp;
