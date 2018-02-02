@@ -1,5 +1,7 @@
 ---
 title: O que são os mineradores?
+seotitle: O que é minerar Bitcoin e outras moedas - como funciona mineração
+description: Saiba o que é minerar Bitcoin e outras moedas digitais e mais sobre o conceito de como minerar o Bitcoin. Acesse e confira.
 layout: faqpage
 ---
 Se alguém já ouviu falar sobre bitcoins provavelmente já ouviu, ou ouvirá, falar sobre minerar bitcoin. Mas o que são os mineradores?
