@@ -27,6 +27,7 @@ COMO USAR A PLATAFORMA
 
 {:.muli}
 *   [Como posso iniciar minhas operações na BRE COINS?](/faq/como-posso-iniciair-minhas-operacoes-na-bre-coins.html "Como posso iniciar minhas operações na BRE COINS?"){:.cinza}
+*   [Como aumentar meus limites de saque e depósito](/faq/como-realizar-uma-transferencia-entre-carteiras.html "Como realizar uma transferência entre carteiras?"){:.cinza}
 
    
    &nbsp;
@@ -40,7 +41,6 @@ COMPRA E VENDA
 *   [Quais são os tipos de ordens disponíveis na BRE COINS?](/faq/tipos-de-ordens-disponiveis-na-bre-coins.html "Quais são os tipos de ordens disponíveis na BRE COINS?"){:.cinza}
 *   [Como faço para cancelar uma transação?](/faq/como-faco-para-cancelar-uma-transacao.html "Como faço para cancelar uma transação?"){:.cinza}
 *   [Como realizar uma transferência entre carteiras?](/faq/como-realizar-uma-transferencia-entre-carteiras.html "Como realizar uma transferência entre carteiras?"){:.cinza}
-*   [Como aumentar meus limites de saque e depó](/faq/como-realizar-uma-transferencia-entre-carteiras.html "Como realizar uma transferência entre carteiras?"){:.cinza}
 *   [Como faço para cancelar uma transação?](/faq/como-aumentar-meus-limites-de-saque-e-deposito.html "Como faço para cancelar uma transaçãosito?"){:.cinza}
 
    
