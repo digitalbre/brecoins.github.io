@@ -1,5 +1,0 @@
----
-title: Qual a importância da blockchain?
-layout: faqpage
----
-Ao entender o que é blockchain e como funciona fica mais fácil de compreender a sua importância. O impacto e a relevância dessa tecnologia sobre a forma como conhecemos as transações financeiras é gigantesco. Pode-se afirmar que é "similar ao surgimento da própria internet. Mover informação livremente pela internet revolucionou as comunicações e a mídia. Mover dinheiro pela internet tem um potencial parecido com o sistema financeiro", de acordo com Joichi Ito, diretor do Media Lab do Instituto de Tecnologia de Massachusetts, o MIT, nos Estados Unidos. (Revista EXAME, 7 de setembro de 2017. [https://exame.abril.com.br/revista-exame/blockchain-e-tao-revolucionaria-quanto-a-internet/)](https://exame.abril.com.br/revista-exame/blockchain-e-tao-revolucionaria-quanto-a-internet/))
