@@ -1,5 +1,7 @@
 ---
 title: Por que comprar bitcoin?
+seotitle: Por que comprar Bitcoins - investir em moedas digitais
+description: Se está com dúvidas porquê comprar Bitcoins e como investir em moedas digitais, então leia o conteúdo dessa página. Acesse e confira.
 layout: faqpage
 ---
 Devido ao aumento da popularidade e ampla utilização de moedas digitais uma questão importante é: **por que comprar bitcoin**? Segue abaixo alguns aspectos que são característicos das transações realizadas por meio de moedas digitais.
