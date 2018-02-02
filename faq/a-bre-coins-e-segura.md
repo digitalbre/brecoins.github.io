@@ -1,5 +1,7 @@
 ---
 title: A BRE COINS é segura?
+seotitle: Melhor corretora de bitcoin confiável e segura - BRE Coins
+description: Nessa página você vai entender por que BRE Coins é a melhor corretora de bitcoin, segura e confiável do mercado. Confira já.
 layout: faqpage
 ---
 A plataforma BRE Coins foi desenvolvida fazendo uso de recursos, tecnologias e técnicas de programação que, além de oferecerem alta performance, fornecem um ambiente totalmente seguro, características essenciais para suportar toda a rapidez e estabilidade que o mercado de criptomoedas exige. Como diferencial, a BRE Coins é a unica exchange no mercado brasileiro a oferecer o reconhecimento facial como uma camada a mais de segurança para o usuário acessar sua conta. Por isso a BRE Coins é uma corretora de bitcoin confiável e muito segura.
