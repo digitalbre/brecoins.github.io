@@ -1,5 +1,7 @@
 ---
 title: Por que o preço do bitcoin é volátil?
+seotitle: Votalidade do Bitcoin - Por que preço do Bitcoin é volátil?
+description: Entenda porquê o preço do Bitcoin é volátil no mercado das moedas digitais. Ótima oportunidade de investimento com a BRE Coins. Saiba mais.
 layout: faqpage
 ---
 De forma simplificada, volatilidade pode ser definida como a possibilidade de variação tanto positiva quanto negativa que um ativo possui. Historicamente as moedas digitais demonstraram ter um elevado índice de volatilidade, o que pode resultar em perdas ou ganhos consideráveis para o usuário. Isso se dá basicamente devido ao fato de que as criptomoedas não possuem um órgão controlador que possa interferir em sua cotação ou preço, assim como acontece com as moedas fiduciárias. Sendo assim, o preço do bitcoin fica sujeito apenas às leis de mercado (oferta e demanda). Dessa forma, quanto mais usuários desejarem comprar, o preço tende a subir visto que a demanda se tornará maior que a oferta. Similarmente, quanto mais pessoas desejarem vender o preço tenderá a cair visto que a oferta se torna maior do que a demanda.
