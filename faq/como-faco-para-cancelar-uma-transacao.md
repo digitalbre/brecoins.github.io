@@ -1,5 +1,7 @@
 ---
 title: Como faço para cancelar uma transação?
+seotitle: Transação bitcoin pode ser cancelada após efetivação?
+description: Uma transação de bitcoin pode ser cancelada após ser efetivada? Detalhes a respeito e mais informações sobre Blockchain, consulte esta página.
 layout: faqpage
 ---
 Infelizmente não é possível cancelar uma transação que já tenha sido efetivada. Uma característica importante envolvendo transações em bitcoin é a sua irreversibilidade. Isso se dá pela forma como o sistema bitcoin foi desenvolvido, assim como a tecnologia usada para registrar essas transações, a blockchain.
