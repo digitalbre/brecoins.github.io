@@ -1,5 +1,6 @@
 ---
 title: O que são Altcoins?
+description: Altcoins são moedas digitais alternativas ao bitcoin. Acesse o site e saiba mais sobre bitcoins e as altcoins.
 layout: faqpage
 ---
 Altcoins são moedas digitais que surgiram após o lançamento do Bitcoin e em sua maioria seguem os mesmos conceitos. Com a popularidade do bitcoin, seu conceito tornou-se referencia e inspiração para que desenvolvedores criassem diversas outras moedas digitais.
@@ -12,7 +13,7 @@ De acordo com o site coinmarketcap.com existem oficialmente mais de 1200 altcoin
 
 Quando a comunidade de mineradores e desenvolvedores responsáveis pelo sistema bitcoin não chega a um consenso sobre uma modificação, atualização ou funcionalidade, podem decidir dividir-se, o que é conhecido como hard fork. Essa divisão acaba dando origem a uma nova moeda, como por exemplo no caso do Bitcoin Cash e do Bitcoin Gold. [Clique aqui e saiba mais sobre fork](o-que-e-fork.html).
 
-**ICO (Initial Public Offering)**
+**ICO (Initial Coin Offering)**
 
 Diferentemente das moedas originadas de um Fork, as ICOs se originam de projetos e são financiadas pela captação de investidores, que recebem como contrapartida um lote pré-acordado da nova moeda assim que esta estiver disponível no mercado. Um exemplo de sucesso desse tipo de moeda é o Ethereum. Caso deseje saber mais sobre ICO clique aqui.
 
