@@ -1,5 +1,7 @@
 ---
 title: O que é Bitcoin?
+seotitle: O que é e como funciona o Bitcoin - mercado de moedas digitais
+description: Entenda o que é e como funciona o Bitcoin, um ótimo investimento em moedas digitais. Todos os detalhes a respeito. Acesse e leia.
 layout: faqpage
 ---
 O conceito sobre o que é bitcoin pode ser muito abrangente. De forma simplificada, bitcoin pode ser definido como um sistema de transferência de recursos ou pagamento que funciona como dinheiro digital. De forma mais ampla, pode ser definido como um conjunto de conceitos e tecnologias aplicados para criar um sistema que possibilita os usuários a realizar transferências de valores de forma simplificada.
