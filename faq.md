@@ -62,6 +62,5 @@ DIVERSOS
 *   [Por que comprar Bitcoin?](/faq/porque-comprar-bitcoin.html "Por que comprar Bitcoin?"){:.cinza}
 *   [Por que o preço do bitcoin é volátil?](/faq/porque-o-preco-do-bitcoin-e-volatil.html "Por que o preço do bitcoin é volátil?"){:.cinza}
 *   [Quem foi o criador do Bitcoin?](/faq/quem-foi-o-criador-do-bitcoin.html "Quem foi o criador do Bitcoin?"){:.cinza}
-*   [Como funciona o Bitcoin?](/faq/como-funciona-o-bitcoin.html "Como funciona o Bitcoin?"){:.cinza}
 *   [Como funciona Blockchain?](/faq/como-funciona-o-blockchain.html "Como funciona Blockchain?"){:.cinza}
 *   [Qual a importância da Blockchain?](/faq/qual-a-importancia-do-blockchain.html "Qual a importância da Blockchain?"){:.cinza}
