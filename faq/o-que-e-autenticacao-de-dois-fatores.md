@@ -16,7 +16,7 @@ Sempre que um serviço disponibilizar essa ferramenta e contenha informações i
 
 Pensando na segurança de seus clientes, a BRE Coins torna obrigatório o uso da autenticação de dois fatores desde o cadastro. Os tokens são enviados por e-mail. No entanto, é recomendado sincronizar um aplicativo gerador de códigos pelo celular, para garantir mais segurança e praticidade.
 
-Além da autenticação de dois fatores, outras medidas de segurança podem ser tomadas a fim de proteger sua conta. Clique no link e saiba mais.
+Além da autenticação de dois fatores, outras medidas de segurança podem ser tomadas a fim de proteger sua conta. [Clique no link e saiba mais](como-posso-deixar-minha-conta-mais-segura.html).
 
 Saiba mais clicando no link abaixo:
 
