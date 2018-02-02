@@ -18,6 +18,4 @@ Pensando na segurança de seus clientes, a BRE Coins torna obrigatório o uso da
 
 Além da autenticação de dois fatores, outras medidas de segurança podem ser tomadas a fim de proteger sua conta. [Clique no link e saiba mais](como-posso-deixar-minha-conta-mais-segura.html).
 
-Saiba mais clicando no link abaixo:
 
-Como faço para configurar a autenticação de 2 fatores?
