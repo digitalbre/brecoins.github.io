@@ -63,4 +63,4 @@ DIVERSOS
 *   [Por que o preço do bitcoin é volátil?](/faq/porque-o-preco-do-bitcoin-e-volatil.html "Por que o preço do bitcoin é volátil?"){:.cinza}
 *   [Quem foi o criador do Bitcoin?](/faq/quem-foi-o-criador-do-bitcoin.html "Quem foi o criador do Bitcoin?"){:.cinza}
 *   [Como funciona Blockchain?](/faq/como-funciona-o-blockchain.html "Como funciona Blockchain?"){:.cinza}
-*   [Qual a importância da Blockchain?](/faq/qual-a-importancia-do-blockchain.html "Qual a importância da Blockchain?"){:.cinza}
+*  
