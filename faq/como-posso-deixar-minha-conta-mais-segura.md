@@ -2,7 +2,7 @@
 title: Como posso deixar minha conta mais segura?
 layout: faqpage
 ---
-Com a crescente utilização de meios eletrônicos como métodos de pagamento, houve um aumento considerável de crimes cibernéticos, ou cibercrimes. Estima-se que só no ano de 2016 aproximadamente 689 milhões de pessoas em 21 países diferentes sofreram com alguma forma de cibercrime (segundo o relatório Norton Cyber Security Insights). Embora o sistema que gerencia as transações em criptomoedas usufrua de métodos avançados no quesito segurança (saiba mais clicando aqui), no que se refere a informações pessoais, tais como senhas e proteção de dispositivos eletrônicos, são de inteira responsabilidade do usuário. Seria como ter itens valiosos guardados dentro de um cofre, porém, guardar de forma segura a senha para abri-lo é de responsabilidade do proprietário dos itens. Como essa porta pode ser fechada e assim diminuir o risco de ter informações pessoais furtadas?
+Embora o sistema que gerencia as transações em criptomoedas usufrua de tecnologias avançadas no quesito segurança, no que se refere a informações pessoais, tais como senhas e proteção de dispositivos eletrônicos, são de inteira responsabilidade do usuário. Seria como ter itens valiosos guardados dentro de um cofre, porém, guardar de forma segura a senha para abri-lo é de responsabilidade do proprietário dos itens. Como essa porta pode ser fechada e assim diminuir o risco de ter informações pessoais furtadas?
 
 **Não utilize senhas óbvias**
 
