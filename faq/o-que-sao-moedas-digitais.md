@@ -1,5 +1,6 @@
 ---
 title: O que são moedas digitais?
+description: Dúvidas sobre o que é moeda digital e como funciona esse mercado? Conteúdo dessa página explica corretamente tudo a respeito. Acesse e leia.
 layout: faqpage
 ---
 Moedas digitais, ou criptomoedas, são tokens (códigos) digitais que podem funcionar como meios de pagamento ou transferência de recursos por meio eletrônico funcionando como dinheiro, porém inexistente fisicamente. Em sua maioria possuem como característica principal a desvinculação com entidades governamentais ou órgãos reguladores.
