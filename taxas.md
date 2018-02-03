@@ -16,8 +16,8 @@ layout: page
 |Saques para bancos conveniados|1,35%|R$ 1.000,00|Até 24 horas úteis|
 |Saques para demais bancos|R$ 9,00 + 1,35%|R$ 1.000,00|Até 24 horas úteis|
 |Saque em Bitcoin|0,0006 BTC + taxa variável de mineração|-|5 minutos a 24 horas úteis|
-|Execução de ordem passiva|0,25%|-|Ativação subordinada|
-|Execução de ordem ativa|0,50%|-|Instantâneo|
+|Execução de ordem limite|0,25%|-|Ativação subordinada|
+|Execução de ordem a mercado|0,50%|-|Instantâneo|
 |Ordem de stop|0,50% (cumulativa com ordens executadas)|-|Ativação subordinada|
 
 Necessário cadastro com número de CPF e e-mail de confirmação.
@@ -35,8 +35,8 @@ Necessário cadastro com número de CPF e e-mail de confirmação.
 |Saques para bancos conveniados|1,35%|R$ 30.000,00|Até 24 horas úteis|
 |Saques para demais bancos|R$ 9,00 + 1,35%|R$ 30.000,00|Até 24 horas úteis|
 |Saque em Bitcoin|0,0006 BTC + taxa variável de mineração|-|5 minutos a 24 horas úteis|
-|Execução de ordem passiva|0,25%|-|Ativação subordinada|
-|Execução de ordem ativa|0,50%|-|Instantâneo|
+|Execução de ordem limite|0,25%|-|Ativação subordinada|
+|Execução de ordem a mercado|0,50%|-|Instantâneo|
 |Ordem de stop|0,50% (cumulativa com ordens executadas)|-|Ativação subordinada|
 
 Necessário envio de documento oficial com foto e reconhecimento facial.
@@ -54,8 +54,8 @@ Necessário envio de documento oficial com foto e reconhecimento facial.
 |Saques para bancos conveniados|1,35%|Flexível|Até 24 horas úteis|
 |Saques para demais bancos|R$ 9,00 + 1,35%|Flexível|Até 24 horas úteis|
 |Saque em Bitcoin|0,0006 BTC + taxa variável de mineração|-|5 minutos a 24 horas úteis|
-|Execução de ordem passiva|0,25%|-|Ativação subordinada|
-|Execução de ordem ativa|0,50%|-|Instantâneo|
+|Execução de ordem limite|0,25%|-|Ativação subordinada|
+|Execução de ordem a mercado|0,50%|-|Instantâneo|
 |Ordem de stop|0,50% (cumulativa com ordens executadas)|-|Ativação subordinada|
 
 Sujeito a análise cadastral.
