@@ -12,4 +12,4 @@ Design por Tatiane Marin, código por Rafael Lisboa - [K2 Estratégia Digital](h
 
 Implementação e manutenção do Jekyll por [Forteras Technology](https://forteras.tech)
 
-Confira a [página de contribuintes](https://github.com/jesobreira/ignore-this-repo/graphs/contributors) para ver todos os participantes.
+Confira a [página de contribuintes](https://github.com/BRECoins/brecoins.github.io/graphs/contributors) para ver todos os participantes.
