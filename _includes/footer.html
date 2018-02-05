@@ -41,10 +41,26 @@
 <footer>
 	<div class="row">
     	<div class="col-md-12 text-center color-text-footer">
-           <span>Copyright &copy; <script> document.write(new Date().getFullYear()); </script>. Todos os direitos reservados.</span>
+           <span>Copyright &copy; <script> document.write(new Date().getFullYear()); </script> BRE Coins / Plataforma / Corretora para vender e comprar Bitcoins - Todos os direitos reservados.</span>
         </div>
     </div>
 </footer>
+<script type="text/javascript">
+  $(function() {
+//MUDA O MENU CONFORME A ROLAGEM  
+  $(document).scroll(function () {
+      var $nav = $("header");
+      $nav.toggleClass('menu-branco', $(this).scrollTop() > $nav.height());
+      if($(this).scrollTop() > $nav.height()) {
+          $("#logo").attr("src", "/assets/img/logo-brecoins-escuro.png");
+      } else {
+          $("#logo").attr("src", "/assets/img/logo-brecoins-branco.png");
+      }
+  });
+  
+});
+</script>
+
 <script>!function(B,R,E){B.GoogleAnalyticsObject=E;B[E]||(B[E]=function(){
 (B[E].q=B[E].q||[]).push(arguments)});B[E].l=+new Date;var s=R.createElement('script'),
 e=R.scripts[0];s.src='//www.google-analytics.com/analytics.js';

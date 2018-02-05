@@ -38,6 +38,11 @@ $(function () {
   $(document).scroll(function () {
 	  	var $nav = $("header");
 	  	$nav.toggleClass('menu-branco', $(this).scrollTop() > $nav.height());
+        if($(this).scrollTop() > $nav.height()) {
+            $("#logo").src("/assets/img/logo-brecoins-branco.png");
+        } else {
+            $("#logo").src("/assets/img/logo-brecoins-escuro.png");
+        }
 	});
 	
 });
