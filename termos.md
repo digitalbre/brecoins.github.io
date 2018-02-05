@@ -1,9 +1,9 @@
 ---
-title: Termos de Uso
+title: Termos de Uso e Política de Privacidade
 windowtitle: BRE Coins
 image: termos
 signupbutton: no
-layout: page
+layout: termos
 ---
 
 ```
