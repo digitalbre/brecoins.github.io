@@ -15,7 +15,7 @@ Quando a comunidade de mineradores e desenvolvedores responsáveis pelo sistema 
 
 **ICO (Initial Coin Offering)**
 
-Diferentemente das moedas originadas de um Fork, as ICOs se originam de projetos e são financiadas pela captação de investidores, que recebem como contrapartida um lote pré-acordado da nova moeda assim que esta estiver disponível no mercado. Um exemplo de sucesso desse tipo de moeda é o Ethereum. Caso deseje saber mais sobre ICO clique aqui.
+Diferentemente das moedas originadas de um Fork, as ICOs se originam de projetos e são financiadas pela captação de investidores, que recebem como contrapartida um lote pré-acordado da nova moeda assim que esta estiver disponível no mercado. Um exemplo de sucesso desse tipo de moeda é o Ethereum.
 
 **Cuidados necessários**
 
