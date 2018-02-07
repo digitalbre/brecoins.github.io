@@ -16,7 +16,7 @@ Mais conhecida como ordem passiva, neste tipo de ordem o usuário limita a um de
 
 **OUTRAS ORDENS**
 
-**Ordem Stop-Limit**
+**Ordem Stop-Limite**
 
 Esta modalidade de ordem de **venda** ou **compra de bitcoin** se torna ativa apenas quando o valor predeterminado pelo usuário é alcançado. No caso das ordens de venda, podem ser utilizadas para proteger o trader contra grandes perdas quando a moeda entrar num viés de baixa, visto que um piso é definido para que a ordem seja enviada automaticamente. Um ponto importante a ser lembrado é que a ordem de compra ou venda será enviada ao livro de ofertas quando o valor de mercado atingir o valor stop, porém ela será executada pelo valor mais vantajoso para o usuário imediatamente abaixo do predefinido desde que haja ordem compatível no livro de ofertas.
 
