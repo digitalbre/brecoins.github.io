@@ -1,5 +1,7 @@
 ---
 title: Como vender bitcoin?
+seotitle: Como vender bitcoin de maneira segura e confiável
+description: Entenda como vender bitcoin de maneira fácil e segura, com ótimo sistema de compra e venda de moedas digitais.
 layout: faqpage
 ---
 O processo para se vender bitcoin é similar ao de comprar bitcoin. Seguindo os passos abaixo o usuário poderá efetuar a venda de forma rápida e segura.
