@@ -12,7 +12,7 @@ Transferir bitcoin para outro usuário independentemente da localização geogr�
 
 **Custo**
 
-Os custos são menores do que em qualquer outra forma de transferência de valores, não importando a quantia ou a distancia dos envolvidos na transação, ainda mais se comparadas às transferências internacionais.
+Os custos são menores do que em qualquer outra forma de transferência de valores, não importando a quantia ou a distância dos envolvidos na transação, ainda mais se comparadas às transferências internacionais.
 
 **Facilidade**
 
