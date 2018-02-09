@@ -16,4 +16,4 @@ O bitcoin revolucionou a forma como pensávamos o dinheiro e as transferências 
 
 [Cadastre-se](https://broker.brecoins.com.br/?p=signup) ou [faça seu login](https://broker.brecoins.com.br/) agora mesmo e entre para o mundo das moedas digitais.
 
-Você também poderá mais sobre [como comprar](/faq/como-comprar-bitcoin.html) ou [vender bitcoins](/faq/como-vender-bitcoin.html).
+Você também poderá saber mais sobre [como comprar](/faq/como-comprar-bitcoin.html) ou [vender bitcoins](/faq/como-vender-bitcoin.html).
