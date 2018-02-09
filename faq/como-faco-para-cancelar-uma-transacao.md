@@ -12,7 +12,7 @@ Portanto, seguem abaixo algumas medidas importantes podem ajudar para que o usu�
 
 **Mantenha sua conta segura**
 
-Ao tomar medidas para manter sua conta segura o usuário evitará possíveis transtornos e perdas que possam resultar devido ao roubo de suas informações. Visto que não é possível cancelar uma transação, os bitcoins perdidos em razão de crimes cibernéticos não poderiam ser recuperados. Veja algumas medidas que poderão ser tomadas a fim de [aumentar a segurança da conta](/faq/como-posso-deixar-minha-conta-mais-segura.html).
+Ao tomar medidas para manter sua conta segura o usuário evitará possíveis transtornos e perdas que possam resultar devido ao roubo de suas informações. Visto que não é possível cancelar uma transação, os bitcoins perdidos em razão de crimes cibernéticos não poderiam ser recuperados. Veja algumas medidas que poderão ser tomadas a fim de [aumentar a segurança da sua conta](/faq/como-posso-deixar-minha-conta-mais-segura.html).
 
 **Certifique-se da idoneidade do destinatário**
 
