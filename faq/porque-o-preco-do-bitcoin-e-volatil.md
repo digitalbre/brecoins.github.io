@@ -10,6 +10,6 @@ Devido a essa característica, o preço das criptomoedas são mais suscetíveis 
 
 No entanto, com base nos dados históricos, é possível observar uma grande e constante valorização no preço do bitcoin. Isso tem ocorrido especialmente devido a consolidação das moedas digitais como meio de transferência de recursos. Muitas companhias, incluindo alguns gigantes como a DELL, por exemplo, já aceitam o bitcoin como forma de pagamento para produtos e serviços.
 
-**Votalitidade do Bitcoin**
+**Volatilidade do Bitcoin**
 
 Um aspecto a ser levado em consideração quando se analisa a **volatilidade do bitcoin** é que seus efeitos são mais impactantes em investidores de curto prazo. Isso porque ao realizar uma análise histórica do preço da moeda é possível perceber que as maiores oscilações e movimentos de queda não afetaram a moeda a longo prazo. Prova disso é que apenas no ano de 2017, levando-se em conta os meses de Janeiro a Novembro, a moeda apresentou uma valorização de 650%, de acordo com a revista Época Negócios ( [https://epocanegocios.globo.com/Mercado/noticia/2017/11/epoca-negocios-bitcoin-atinge-marca-de-us-7000-pela-primeira-vez.html)](https://epocanegocios.globo.com/Mercado/noticia/2017/11/epoca-negocios-bitcoin-atinge-marca-de-us-7000-pela-primeira-vez.html)).
