@@ -61,6 +61,6 @@ Necessário envio de documento oficial com foto e reconhecimento facial.
 Sujeito a análise cadastral.
 
 
-**VALOR MÍNIMO PARA DEPÓSITO ATÉ 28/02: R$ 1.000,00**
+**VALOR MÍNIMO PARA DEPÓSITO: R$ 1.000,00**
 
 \* Limites diários são renovados às 00:00h (horário de Brasília)
