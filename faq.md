@@ -1,6 +1,6 @@
 ---
 title: FAQ
-windowtitle: O que é Bitcoin e como vender e comprar Bitcoins no Brasil?
+windowtitle: O que é Bitcoin? Como comprar e vender Bitcoins no Brasil?
 image: faq
 div_id: faq
 layout: page
