@@ -1,7 +1,7 @@
 ---
 title: Quem Somos
 windowtitle: A Corretora mais Confiável em Moedas Digitais – BRE Coins
-description: Conheça a BRE Coins, uma das melhores Exchange Bitcoin do Brasil. Uma plataforma que oferece todas as condições para vender ou comprar moedas digitais. Não perca.
+description: Conheça a BRE COINS, a melhor e mais Confiável Corretora para compra e venda de Bitcoins e Moedas Digitais.
 image: quem_somos
 layout: page
 ---
