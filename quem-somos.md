@@ -1,5 +1,5 @@
 ---
-title: Quem Somos.
+title: Quem Somos
 windowtitle: A Corretora mais Confiável em Moedas Digitais – BRE Coins
 description: Conheça a BRE COINS, a melhor e mais Confiável Corretora para compra e venda de Bitcoins e Moedas Digitais.
 image: quem_somos
