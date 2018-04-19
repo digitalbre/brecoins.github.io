@@ -1,5 +1,6 @@
 ---
 title: Taxas e Tarifas
+seotitle: As Melhores Taxas e Tarifas para comprar e vender Bitcoins
 windowtitle: BRE Coins
 image: taxas
 layout: page
