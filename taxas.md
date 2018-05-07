@@ -62,7 +62,7 @@ Necessário envio de documento oficial com foto e reconhecimento facial.
 Sujeito a análise cadastral.
 
 
-BANCOS CONVENIADOS: BANCO DO BRASIL / BANCO SAFRA / CAIXA ECONÔMICA FEDERAL
+BANCOS CONVENIADOS: **BANCO DO BRASIL / BANCO SAFRA / CAIXA ECONÔMICA FEDERAL**
 
 
 **VALOR MÍNIMO PARA DEPÓSITO/SAQUE: R$ 1.000,00**
