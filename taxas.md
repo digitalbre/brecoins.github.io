@@ -65,6 +65,6 @@ Sujeito a análise cadastral.
 BANCOS CONVENIADOS: **BANCO DO BRASIL / BANCO SAFRA / CAIXA ECONÔMICA FEDERAL**
 
 
-**VALOR MÍNIMO PARA DEPÓSITO/SAQUE: R$ 1.000,00**
+**VALOR MÍNIMO PARA DEPÓSITO / SAQUE: R$ 1.000,00**
 
 \* Limites diários são renovados às 00:00h (horário de Brasília)
