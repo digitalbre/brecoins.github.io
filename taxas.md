@@ -12,7 +12,7 @@ layout: page
 
 |Rubrica|Tarifas / Taxas|Limite diário*|Prazos|
 |--- |--- |--- |--- |
-|Depósito em real| - |R$ 1.000,00|Até 24 horas úteis|
+|Depósito em real|-|R$ 1.000,00|Até 24 horas úteis|
 |Depósito em bitcoin|-|-|3 confirmações da rede|
 |Saques para bancos conveniados|0,99%|R$ 1.000,00|Até 24 horas úteis|
 |Saques para demais bancos|R$ 9,00 + 0,99%|R$ 1.000,00|Até 24 horas úteis|
@@ -31,7 +31,7 @@ Necessário cadastro com número de CPF e e-mail de confirmação.
 
 |Rubrica|Tarifas / Taxas|Limite diário*|Prazos|
 |--- |--- |--- |--- |
-|Depósito em real| - |R$ 30.000,00|Até 24 horas úteis|
+|Depósito em real|-|R$ 30.000,00|Até 24 horas úteis|
 |Depósito em bitcoin|-|3 confirmações da rede|
 |Saques para bancos conveniados|0,99%|R$ 30.000,00|Até 24 horas úteis|
 |Saques para demais bancos|R$ 9,00 + 0,99%|R$ 30.000,00|Até 24 horas úteis|
@@ -50,7 +50,7 @@ Necessário envio de documento oficial com foto e reconhecimento facial.
 
 |Rubrica|Tarifas / Taxas|Limite diário*|Prazos|
 |--- |--- |--- |--- |
-|Depósito em real| - |Flexível|Até 24 horas úteis|
+|Depósito em real|-|Flexível|Até 24 horas úteis|
 |Depósito em bitcoin|-|-|3 confirmações da rede|
 |Saques para bancos conveniados|0,99%|Flexível|Até 24 horas úteis|
 |Saques para demais bancos|R$ 9,00 + 0,99%|Flexível|Até 24 horas úteis|
