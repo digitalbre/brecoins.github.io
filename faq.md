@@ -42,6 +42,13 @@ GLOSSÁRIO
 *  [O que é day trader](/faq/o-que-e-day-trader.html " O que é day trader?"){:.cinza}
 *  [A que se refere o termo baleia (whale)?](/faq/a-que-se-refere-o-termo-baleia.html "A que se refere o termo baleia (whale)?"){:.cinza}
 *  [O que é satoshi?](/faq/o-que-e-satoshi.html "O que é satoshi?"){:.cinza}
+*  [O que é microbit (UBTC)?](/faq/o-que-e-microbit.html "O que é microbit (UBTC)?"){:.cinza}
+*  [O que é milibit (MBTC)?](/faq/o-que-e-milibit.html "O que é milibit (MBTC)?"){:.cinza}
+*  [O que é ATH?](/faq/o-que-e-ath.html "O que é ATH?"){:.cinza}
+*  [O que é algoritmo?](/faq/o-que-e-algoritmo.html "O que é algoritmo?"){:.cinza}
+*  [O que significa a sigla BTC?](/faq/o-que-e-btc.html "O que significa a sigla BTC?"){:.cinza}
+*  [O que é exchange?](/faq/o-que-e-exchange.html "O que é exchange?"){:.cinza}
+*  [O que é testnet?](/faq/o-que-e-testnet.html "O que é testnet?"){:.cinza}
 
 
 
