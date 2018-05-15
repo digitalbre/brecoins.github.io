@@ -1,5 +1,5 @@
 ---
-title: A que se refere o termo baleia (whale)?
+title: Como posso criar a minha conta na BRE COINS?
 seotitle: Saiba a que se refere o termo baleia, ou whale.
 description: Saiba a que se refere o termo baleia, ou whale.
 layout: faqpage
