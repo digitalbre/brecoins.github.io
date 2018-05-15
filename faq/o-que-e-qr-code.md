@@ -1,7 +1,7 @@
 ---
 title: O que é QR Code?
-seotitle: O que é QR Code?
-description: O que é QR Code?
+seotitle: Saiba o que é QR Code.
+description: Saiba o que é QR Code.
 layout: faqpage
 ---
 
