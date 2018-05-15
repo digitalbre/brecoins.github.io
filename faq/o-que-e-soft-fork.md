@@ -4,4 +4,4 @@ seotitle: Saiba o que é soft fork.
 description: Saiba o que é soft fork.
 layout: faqpage
 ---
-Quando a comunidade de desenvolvedores e mineradores chega a um consenso com relação a uma atualização esta é lançada, o que é chamado de soft fork. 
+Quando a comunidade de desenvolvedores e mineradores chega a um consenso com relação a uma atualização, esta é lançada, o que é chamado de soft fork. Na grande maioria das vezes os usuários não conseguem perceber nenhuma mudança substancial.
