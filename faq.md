@@ -11,7 +11,8 @@ GLOSSÁRIO
 
 {:.muli}
 
-*   [O que é Bitcoin?](/faq/o-que-e-bitcoin.html "O que é Bitcoin?"){:.cinza}
+*   [O que são moedas digitais?](/faq/o-que-sao-moedas-digitais.html "O que são moedas digitais"){:.cinza}
+*   [O que é Bitcoin?](/faq/o-que-e-bitcoin.html "O que é Bitcoin?"){:.cinza}
 *   [O que é Blockchain?](/faq/o-que-e-blockchain.html "O que é Blockchain?"){:.cinza}
 *   [O que é uma carteira de bitcoin (wallet)?](/faq/o-que-e-uma-carteira-de-bitcoin.html "O que é uma carteira de bitcoin (wallet)?"){:.cinza}
 *   [O que são moedas digitais?](/faq/o-que-sao-moedas-digitais.html "O que são moedas digitais?"){:.cinza}
