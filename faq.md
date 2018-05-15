@@ -49,7 +49,7 @@ GLOSSÁRIO
 *  [O que significa a sigla BTC?](/faq/o-que-e-btc.html "O que significa a sigla BTC?"){:.cinza}
 *  [O que é exchange?](/faq/o-que-e-exchange.html "O que é exchange?"){:.cinza}
 *  [O que é testnet?](/faq/o-que-e-testnet.html "O que é testnet?"){:.cinza}
-
+*  [O que é uma transação?](/faq/o-que-e-uma-transacao.html "O que é uma transação?"){:.cinza}
 
 
 
