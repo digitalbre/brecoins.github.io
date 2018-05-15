@@ -1,6 +1,6 @@
 ---
 title: O que é Blockchain?
-description: Entenda o que é Blockchain e como funciona. Saiba mais sobre essa tecnologia em acensão.
+description: Entenda o que é Blockchain e como funciona. Saiba mais sobre essa tecnologia em ascensão.
 layout: faqpage
 ---
 A blockchain é um registro público e digital onde todas as transações aprovadas em bitcoins são registradas. As informações são estruturadas em blocos e assinadas digitalmente por códigos criptográficos. 
