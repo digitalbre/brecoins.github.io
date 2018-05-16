@@ -1,5 +1,5 @@
 ---
-title: Criei uma ordem de deposito. Qual o prazo para que os créditos estejam disponíveis em minha conta na BRE COINS?
+title: Realizei um depósito bancário. Qual o prazo para que os créditos estejam disponíveis em minha conta na BRE COINS?
 seotitle: Utilize a plataforma BRE COINS para suas operações de compra e venda de bitcoins.
 description: Utilize a plataforma BRE COINS para suas operações de compra e venda de bitcoins
 layout: faqpage
