@@ -106,12 +106,12 @@ COMPRA E VENDA
 {:.muli}
 *  [Como comprar Bitcoin?](/faq/como-comprar-bitcoin.html "Como Comprar Bitcoin?"){:.cinza}
 *  [Como vender Bitcoin?](/faq/como-vender-bitcoin.html "Como Vender Bitcoin?"){:.cinza}
-*  [O que é uma ordem de compra ou venda?](/faq/o-que-e-uma-ordem.html "O que é uma ordem de compra ou venda?"){:.cinza}
+*  [O que é uma ordem de compra ou venda?](/faq/o-que-e-uma-ordem.html "O que é uma ordem de compra ou venda?"){:.cinza}
 *  [Quais são os tipos de ordens disponíveis na BRE COINS?](/faq/tipos-de-ordens-disponiveis-na-bre-coins.html "Quais são os tipos de ordens disponíveis na BRE COINS?"){:.cinza}
-*  [O que é uma ordem de mercado?](/faq/o-que-e-uma-ordem-de-mercado.html "O que é uma ordem de mercado?"){:.cinza}
+*  [O que é uma ordem de mercado?](/faq/o-que-e-uma-ordem-de-mercado.html "O que é uma ordem de mercado?"){:.cinza}
 *  [O que é uma ordem limite?](/faq/o-que-e-uma-ordem-limite.html "O que é uma ordem limite?"){:.cinza}
 *  [O que é uma ordem stop-limite?](/faq/o-que-e-uma-ordem-stop-limite.html "O que é uma ordem stop-limite?"){:.cinza}
-*  [A BRE COINS emite notas fiscais das minhas operações?](/faq/a-bre-coins-emite-notas-fiscais.html "A BRE COINS emite notas fiscais das minhas operações?"){:.cinza}
+*  [A BRE COINS emite notas fiscais das minhas operações?](/faq/a-bre-coins-emite-notas-fiscais.html "A BRE COINS emite notas fiscais das minhas operações?"){:.cinza}
 
 
 
