@@ -62,8 +62,16 @@ GLOSSÁRIO
 UTILIZAÇÃO DA PLATAFORMA
 
 {:.muli}
-*  
+*  [Como posso criar a minha conta na BRE COINS?](/faq/como-posso-criar-a-minha-conta-na-bre-coins.html "Como posso criar a minha conta na BRE COINS?"){:.cinza}
 *  [Como posso iniciar minhas operações na BRE COINS?](/faq/como-posso-iniciair-minhas-operacoes-na-bre-coins.html "Como posso iniciar minhas operações na BRE COINS?"){:.cinza}
+*  [Como posso obter créditos em reais na plataforma?](/faq/como-posso-obter-creditos-em-reais.html "Como posso obter créditos em reais na plataforma?){:.cinza}
+*  [O que é o "Painel de Negociações"?](/faq/o-que-e-o-painel-de-negociacoes.html "O que é o "Painel de Negociações?"){:.cinza}
+*  [Quais as diferenças entre o modo "Básico" e "Trader" do "Painel de Negociações"?](/faq/diferencas-entre-modo-basico-e-trader.html "Quais as diferenças entre o modo "Básico" e "Trader" do "Painel de Negociações"?){:.cinza}
+
+
+
+
+
 *  [Como aumentar meus limites de saque e depósito?](/faq/como-aumentar-meus-limites-de-saque-e-deposito.html "Como aumentar meus limites de saque e depósito?"){:.cinza}
 
    
