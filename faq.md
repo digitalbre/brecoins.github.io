@@ -52,6 +52,10 @@ GLOSSÁRIO
 *  [O que é uma transação?](/faq/o-que-e-uma-transacao.html "O que é uma transação?"){:.cinza}
 
    
+
+
+
+
 {:.montserrat-extra.escuro}
 UTILIZAÇÃO DA PLATAFORMA
 
@@ -92,8 +96,6 @@ UTILIZAÇÃO DA PLATAFORMA
 
 
 
-
-   
 {:.montserrat-extra.escuro}
 COMPRA E VENDA
 
@@ -113,7 +115,6 @@ COMPRA E VENDA
 
 
  
-   
 {:.montserrat-extra.escuro}
 SEGURANÇA
 
@@ -131,7 +132,6 @@ SEGURANÇA
 
 
  
-   
 {:.montserrat-extra.escuro}
 DIVERSOS
 
@@ -154,10 +154,6 @@ DIVERSOS
 
 
 
-
-
-
-   
 {:.montserrat-extra.escuro}
 PRAZOS
 
