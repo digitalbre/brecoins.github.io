@@ -65,16 +65,16 @@ UTILIZAÇÃO DA PLATAFORMA
 *  [Como posso criar a minha conta na BRE COINS?](/faq/como-posso-criar-a-minha-conta-na-bre-coins.html "Como posso criar a minha conta na BRE COINS?"){:.cinza}
 *  [Como posso iniciar minhas operações na BRE COINS?](/faq/como-posso-iniciair-minhas-operacoes-na-bre-coins.html "Como posso iniciar minhas operações na BRE COINS?"){:.cinza}
 *  [Como posso obter créditos em reais na plataforma?](/faq/como-posso-obter-creditos-em-reais.html "Como posso obter créditos em reais na plataforma?"){:.cinza}
-*  [O que é o "Painel de Negociações"?](/faq/o-que-e-o-painel-de-negociacoes.html "O que é o Painel de Negociações?"){:.cinza}
-*  [Quais as diferenças entre o modo "Básico" e "Trader" do "Painel de Negociações"?](/faq/diferencas-entre-modo-basico-e-trader.html "Quais as diferenças entre o modo Básico e Trader do Painel de Negociações?"){:.cinza}
+*  [O que é o **Painel de Negociações**?](/faq/o-que-e-o-painel-de-negociacoes.html "O que é o Painel de Negociações?"){:.cinza}
+*  [Quais as diferenças entre o modo **Básico** e **Trader** do **Painel de Negociações**?](/faq/diferencas-entre-modo-basico-e-trader.html "Quais as diferenças entre o modo Básico e Trader do Painel de Negociações?"){:.cinza}
 *  [Como realizar um depósito em reais na plataforma?](/faq/como-realizar-um-deposito-em-reais.html "Como realizar um depósito em reais na plataforma?"){:.cinza}
 *  [Como enviar o comprovante de depósito?](/faq/como-enviar-o-comprovante-de-deposito.html "Como enviar o comprovante de depósito?"){:.cinza}
 *  [Como realizar um saque em reais da plataforma para minha conta bancárias?](/faq/como-realizar-um-saque-para-minha-conta-bancaria.html "Como realizar um saque em reais da plataforma para minha conta bancária?"){:.cinza}
 *  [Como aumentar meus limites para saque e depósito?](/faq/como-aumentar-meus-limites-para-saque-e-deposito.html "Como aumentar meeus limites para saque e depósito?"){:.cinza}
 *  [Como depositar bitcoins na plataforma?](/faq/como-depositar-bitcoins-na-plataforma.html "Como depositar bitcoins na plataforma?"){:.cinza}
 *  [Como sacar meus bitcoins da plataforma?](/faq/como-sacar-meus-bitcoins-da-plataforma.html "Como sacar meus bitcoins da plataforma?"){:.cinza}
-*  [O que é o "Livro de Ofertas"?](/faq/o-que-e-o-livro-de-ofertas.html "O que é o Livro de Ofertas?"){:.cinza}
-*  [Para quê serve o botão "Acumulado" no "Livro de Ordens"?](/faq/para-que-serve-o-botao-acumulado.html "Para quê serve o botão Acumulado no Licro de Ordens?"){:.cinza}
+*  [O que é o **Livro de Ofertas**?](/faq/o-que-e-o-livro-de-ofertas.html "O que é o Livro de Ofertas?"){:.cinza}
+*  [Para quê serve o botão **Acumulado** no **Livro de Ordens**?](/faq/para-que-serve-o-botao-acumulado.html "Para quê serve o botão Acumulado no Licro de Ordens?"){:.cinza}
 *  [O que é o **Histórico de Ordens**?](/faq/o-que-e-o-historico-de-ordens.html "O que é o Histórico de Ordens?"){:.cinza}
 
 
