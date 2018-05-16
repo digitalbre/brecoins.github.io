@@ -51,12 +51,6 @@ GLOSSÁRIO
 *  [O que é testnet?](/faq/o-que-e-testnet.html "O que é testnet?"){:.cinza}
 *  [O que é uma transação?](/faq/o-que-e-uma-transacao.html "O que é uma transação?"){:.cinza}
 
-
-
-
-
-
-
    
 {:.montserrat-extra.escuro}
 UTILIZAÇÃO DA PLATAFORMA
