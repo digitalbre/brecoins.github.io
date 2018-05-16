@@ -1,5 +1,5 @@
 ---
-title: Como alterar a senha de acesso à plataforma?
+title: Como alterar a minha senha de acesso à plataforma?
 seotitle: Realize suas operações em bitcoins com seguraça.
 description: Realize suas operações em bitcoins com seguraça.
 layout: faqpage
