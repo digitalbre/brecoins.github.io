@@ -56,7 +56,7 @@ GLOSSÁRIO
 
 
 
-   &nbsp;
+
    
 {:.montserrat-extra.escuro}
 UTILIZAÇÃO DA PLATAFORMA
@@ -98,7 +98,7 @@ UTILIZAÇÃO DA PLATAFORMA
 
 
 
-   &nbsp;
+
    
 {:.montserrat-extra.escuro}
 COMPRA E VENDA
@@ -118,7 +118,7 @@ COMPRA E VENDA
 
 
 
-   &nbsp;
+ 
    
 {:.montserrat-extra.escuro}
 SEGURANÇA
@@ -136,7 +136,7 @@ SEGURANÇA
 
 
 
-   &nbsp;
+ 
    
 {:.montserrat-extra.escuro}
 DIVERSOS
@@ -162,7 +162,7 @@ DIVERSOS
 
 
 
-&nbsp;
+
    
 {:.montserrat-extra.escuro}
 PRAZOS
