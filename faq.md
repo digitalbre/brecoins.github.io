@@ -126,7 +126,7 @@ SEGURANÇA
 {:.muli}
 *  [O que é autenticação de dois fatores?](/faq/o-que-e-autenticacao-de-dois-fatores.html "O que é autenticação de dois fatores?"){:.cinza}
 *  [Como ativar a autenticação de dois fatores?](/faq/como-ativar-a-autenticacao-de-dois-fatores.html "Como ativar a autenticação de dois fatores?"){:.cinza}
-*  [Como ativo o reconhecimento facial?]/faq/como-ativo-o-reconhecimento-facial.html "Como ativo o reconhecimento facial?"){:.cinza}
+*  [Como ativo o reconhecimento facial?](/faq/como-ativo-o-reconhecimento-facial.html "Como ativo o reconhecimento facial?"){:.cinza}
 *  [Posso utilizar contas bancárias de terceiros para sacar ou depositar reais na plataforma?](/faq/posso-utilizar-contas-bancarias-de-terceiros.html "Posso utilizar contas bancárias de terceiros para sacar ou depositar reais na plataforma?"){:.cinza}
 *  [Como posso deixar minha conta mais segura?](/faq/como-posso-deixar-minha-conta-mais-segura.html "Como posso deixar minha conta mais segura?"){:.cinza}
 *  [Por que preciso fornecer dados pessoais para negociar bitcoins na BRE COINS?](/faq/por-que-preciso-fornecer-dados-pessoais.html "Por que preciso fornecer dados pessoais para negociar na BRE COINS?"){:.cinza}
