@@ -1,5 +1,5 @@
 ---
-title: Como solicito ajuda do suporte?
+title: Como solicito ajuda ao suporte?
 seotitle: BRE COINS, a corretora mais confiável para você!
 description: BRE COINS, a corretora mais confiável para você!
 layout: faqpage
