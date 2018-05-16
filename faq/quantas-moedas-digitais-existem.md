@@ -1,5 +1,5 @@
 ---
-title: Quantas moedas virtuais existem?
+title: Quantas moedas digitais existem?
 seotitle: Saiba quantas moedas digitais existem.
 description: Saiba quantas moedas digitais existem.
 layout: faqpage
