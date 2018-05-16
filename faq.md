@@ -154,3 +154,21 @@ DIVERSOS
 *  [É possível cancelar uma transação de bitcoins?](/faq/e-possivel-cancelar-uma-tansacao.html "É possível cancelar uma transação de bitcoins?"){:.cinza}
 *  [Quantas moedas digitais existem?](/faq/quantas-moedas-digitais-existem.html "Quantas moedas digitais existem?"){:.cinza}
 *  [Qual é a diferença entre moeda física, eletrônica e digital?](/faq/diferenca-entre-moeda-fisica-eletronica-digital.html "Qual a diferença entre moeda física, eletrônica e digital?"){:.cinza}
+
+
+
+
+
+
+
+
+&nbsp;
+   
+{:.montserrat-extra.escuro}
+PRAZOS
+
+{:.muli}
+*  [Realizei um depósito bancário. Qual o prazo para que os créditos estejam disponíveis em minha conta na BRE Coins?](/faq/realizei-um-deposito-bancário-qual-o-prazo.html "Realizei um depósito bancário. Qual o prazo para que os créditos estejam disponíveis em minha conta na BRE Coins?"){:.cinza}
+*  [Criei uma ordem de saque. Qual o prazo para que o valor esteja disponível em minha conta bancária?](/faq/criei-uma-ordem-de-saque-qual-o-prazo.html "Criei uma ordem de saque. Qual o prazo para que o valor esteja disponível em minha conta bancária?"){:.cinza}
+*  [Qual é o horário de atendimento do suporte da BRE COINS?](/faq/qual-o-horario-de-atendimento-do-suporte.html "Qual é o horário de atendimento do suporte da BRE COINS?"){:.cinza}
+
