@@ -1,7 +1,7 @@
 ---
 title: Como comprar bitcoin?
 seotitle: Como comprar bitcoin de maneira confiável e segura.
-description: Entenda como comprar bitcoin de maneira fácil e segura, com ótimo sistema de compra e venda de moedas digitais. Tire suas dúvidas sobre o mercado.
+description: Entenda como comprar bitcoin de maneira fácil e segura. Tire suas dúvidas sobre o mercado de criptomoedas.
 layout: faqpage
 ---
 No menu lateral clique em “Painel de Negociações”:
