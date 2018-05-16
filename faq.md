@@ -76,6 +76,11 @@ UTILIZAÇÃO DA PLATAFORMA
 *  [O que é o **Livro de Ofertas**?](/faq/o-que-e-o-livro-de-ofertas.html "O que é o Livro de Ofertas?"){:.cinza}
 *  [Para quê serve o botão **Acumulado** no **Livro de Ordens**?](/faq/para-que-serve-o-botao-acumulado.html "Para quê serve o botão Acumulado no Licro de Ordens?"){:.cinza}
 *  [O que é o **Histórico de Ordens**?](/faq/o-que-e-o-historico-de-ordens.html "O que é o Histórico de Ordens?"){:.cinza}
+*  [O que é o **Extrato**?](/faq/o-que-e-o-extrato.html "O que é o Extrato?"){:.cinza}
+*  [Como alterar a minha senha de acesso à plataforma?](/faq/como-alterar-a-minha-senha-de-acesso.html "Como alterar a minha senha de acesso à plataforma?"){:.cinza}
+*  [Como alterar meu e-mail de cadastro?](/faq/como-alterar-meu-email-de-cadastro.html "Como alterar meu e-mail de cadastro?"){:.cinza}
+
+
 
 
 
