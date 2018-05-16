@@ -79,7 +79,20 @@ UTILIZAÇÃO DA PLATAFORMA
 *  [O que é o **Extrato**?](/faq/o-que-e-o-extrato.html "O que é o Extrato?"){:.cinza}
 *  [Como alterar a minha senha de acesso à plataforma?](/faq/como-alterar-a-minha-senha-de-acesso.html "Como alterar a minha senha de acesso à plataforma?"){:.cinza}
 *  [Como alterar meu e-mail de cadastro?](/faq/como-alterar-meu-email-de-cadastro.html "Como alterar meu e-mail de cadastro?"){:.cinza}
-
+*  [Como altero a minha foto de perfil na plataforma?](/faq/como-altero-a-minha-foto-de-perfil.html "Como altero a minha foto de perfil na plataforma?"){:.cinza}
+*  [Como altero o meu telefone de cadastro?](/faq/como-altero-meu-telefone-de-cadastro.html "Como altero o meu telefone de cadastro?"){:.cinza}
+*  [Como realizo o logout](/faq/como-realizar-o-logout.html "Como realizo o logout?"){:.cinza}
+*  [Como faço o login?](/faq/como-faco-o-login.html "Como faço o login?"){:.cinza}
+*  [Esqueci minha senha. O que eu faço?](/faq/esqueci-minha-senha.html "Esqueci minha senha. O que eu faço?"){:.cinza}
+*  [Como solicito ajuda ao suporte?](/faq/como-solicito-ajuda-ao-suporte.html "Como solicito ajuda ao suporte?"){:.cinza}
+*  [Posso criar uma conta para pessoa jurídica?](/faq/posso-criar-uma-conta-para-pessoa-juridica.html "Posso criar uma conta para pessoa jurídica?"){:.cinza}
+*  [Sou menor de idade. Posso criar uma conta na BRE COINS?](/faq/sou-menor-de-idade.html "Sou menor de idade. Posso criar uma conta na BRE COINS?"){:.cinza}
+*  [Posso ter mais de uma conta na BRE COINS?](/faq/posso-ter-mais-de-uma-conta.html "Posso ter mais de uma conta na BRE COINS?"){:.cinza}
+*  [Não recebi o e-mail de verificação. O que fazer?](/faq/nao-recebi-o-email-de-verificacao.html "Não recebi o e-mail de verificação. O que eu faço?"){:.cinza}
+*  [Não recebi o código via SMS para finalizar a criação da minha conta. O que eu faço?](/faq/nao-recebi-o-codigo-via-sms.html "Não recebi o código via SMS para a finalizar a criação da minha conta. O que eu faço?"){:.cinza}
+*  [Não estou conseguindo anexar o comprovante de depósito.O que eu faço?](/faq/nao-estou-conseguindo-anexar-o-comprovante.html "Não estou conseguindo anexar o comprovante de depósito. O que eu faço?"){:.cinza}
+*  [A BRE COINS oferece serviços internacionais para transações de bitcoins?](/faq/a-bre-coins-oferece-servicos-internacionais-para-transacoes-de-bitcoins.html "A BRE COINS oferece serviços internacionais para transações de bitcoins?"){:.cinza}
+*  
 
 
 
