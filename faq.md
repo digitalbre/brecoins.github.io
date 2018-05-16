@@ -67,7 +67,7 @@ UTILIZAÇÃO DA PLATAFORMA
 *  [Como posso obter créditos em reais na plataforma?](/faq/como-posso-obter-creditos-em-reais.html "Como posso obter créditos em reais na plataforma?){:.cinza}
 *  [O que é o "Painel de Negociações"?](/faq/o-que-e-o-painel-de-negociacoes.html "O que é o "Painel de Negociações?"){:.cinza}
 *  [Quais as diferenças entre o modo "Básico" e "Trader" do "Painel de Negociações"?](/faq/diferencas-entre-modo-basico-e-trader.html "Quais as diferenças entre o modo "Básico" e "Trader" do "Painel de Negociações"?){:.cinza}
-
+*  
 
 
 
