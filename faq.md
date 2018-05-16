@@ -124,18 +124,33 @@ COMPRA E VENDA
 SEGURANÇA
 
 {:.muli}
-*   [A BRE COINS é segura?](/faq/a-bre-coins-e-segura.html "A BRE COINS é segura?"){:.cinza}
-*   [O que é autenticação de dois fatores?](/faq/o-que-e-autenticacao-de-dois-fatores.html "O que é autenticação de dois fatores?"){:.cinza}
-*   [Como posso deixar minha conta mais segura?](/faq/como-posso-deixar-minha-conta-mais-segura.html "Como posso deixar minha conta mais segura?"){:.cinza}
+*  [O que é autenticação de dois fatores?](/faq/o-que-e-autenticacao-de-dois-fatores.html "O que é autenticação de dois fatores?"){:.cinza}
+*  [Como ativar a autenticação de dois fatores?](/faq/como-ativar-a-autenticacao-de-dois-fatores.html "Como ativar a autenticação de dois fatores?"){:.cinza}
+*  [Como ativo o reconhecimento facial?]/faq/como-ativo-o-reconhecimento-facial.html "Como ativo o reconhecimento facial?"){:.cinza}
+*  [Posso utilizar contas bancárias de terceiros para sacar ou depositar reais na plataforma?](/faq/posso-utilizar-contas-bancarias-de-terceiros.html "Posso utilizar contas bancárias de terceiros para sacar ou depositar reais na plataforma?"){:.cinza}
+*  [Como posso deixar minha conta mais segura?](/faq/como-posso-deixar-minha-conta-mais-segura.html "Como posso deixar minha conta mais segura?"){:.cinza}
+*  [Por que preciso fornecer dados pessoais para negociar bitcoins na BRE COINS?](/faq/por-que-preciso-fornecer-dados-pessoais.html "Por que preciso fornecer dados pessoais para negociar na BRE COINS?"){:.cinza}
 
-   
+
+
+
+
+
    &nbsp;
    
 {:.montserrat-extra.escuro}
 DIVERSOS
 
 {:.muli}
-*   [Por que comprar Bitcoin?](/faq/porque-comprar-bitcoin.html "Por que comprar Bitcoin?"){:.cinza}
-*   [Por que o preço do bitcoin é volátil?](/faq/porque-o-preco-do-bitcoin-e-volatil.html "Por que o preço do bitcoin é volátil?"){:.cinza}
-*   [Quem foi o criador do Bitcoin?](/faq/quem-foi-o-criador-do-bitcoin.html "Quem foi o criador do Bitcoin?"){:.cinza}
-*   [Como funciona Blockchain?](/faq/como-funciona-o-blockchain.html "Como funciona Blockchain?"){:.cinza}
+*  [Como o fork impacta os usuários?](/faq/como-o-fork-impacta-os-usuarios.html "Como o fork impacta os usuários?"){:.cinza}
+*  [Como surgem as altcoins?](/faq/como-surgem-as-altcoins.html "Como surgem as altcoins?"){:.cinza}
+*  [Quem foi o criador do Bitcoin?](/faq/quem-foi-o-criador-do-bitcoin.html "Quem foi o criador do Bitcoin?"){:.cinza}
+*  [Como funciona o bitcoin?](/faq/como-funciona-o-bitcoin.html "Como funciona o bitcoin?"){:.cinza}
+*  [Como funciona a blockchain?](/faq/como-funciona-a-blockchain.html "Como funciona a blockchain?"){:.cinza}
+*  [Por que o preço do bitcoin é volátil?](/faq/porque-o-preco-do-bitcoin-e-volatil.html "Por que o preço do bitcoin é volátil?"){:.cinza}
+*  [Quem estabelece o preço dos bitcoins?](/faq/quem-estabelece-o-preco-dos-bitcoins.html "Quem estabelece o preço dos bitcoins?"){:.cinza}
+*  [Posso utilizar bitcoins como forma de pagamento?](/faq/posso-utilizar-bitcoins-como-forma-de-pagamento.html "Posso utilizar bitcoins como forma de pagamento?"){:.cinza}
+*  [A quantidade finita de bitcoins não será uma limitação?](/faq/quantidade-finita-de-bitcoins-nao-sera-uma-limitacao.html "A quantidade finita de bitcoins não será uma limitação?"){:.cinza}
+*  [É possível cancelar uma transação de bitcoins?](/faq/e-possivel-cancelar-uma-tansacao.html "É possível cancelar uma transação de bitcoins?"){:.cinza}
+*  [Quantas moedas digitais existem?](/faq/quantas-moedas-digitais-existem.html "Quantas moedas digitais existem?"){:.cinza}
+*  [Qual é a diferença entre moeda física, eletrônica e digital?](/faq/diferenca-entre-moeda-fisica-eletronica-digital.html "Qual a diferença entre moeda física, eletrônica e digital?"){:.cinza}
