@@ -71,6 +71,11 @@ UTILIZAÇÃO DA PLATAFORMA
 *  [Como enviar o comprovante de depósito?](/faq/como-enviar-o-comprovante-de-deposito.html "Como enviar o comprovante de depósito?"){:.cinza}
 *  [Como realizar um saque em reais da plataforma para minha conta bancárias?](/faq/como-realizar-um-saque-para-minha-conta-bancaria.html "Como realizar um saque em reais da plataforma para minha conta bancária?"){:.cinza}
 *  [Como aumentar meus limites para saque e depósito?](/faq/como-aumentar-meus-limites-para-saque-e-deposito.html "Como aumentar meeus limites para saque e depósito?"){:.cinza}
+*  [Como depositar bitcoins na plataforma?](/faq/como-depositar-bitcoins-na-plataforma.html "Como depositar bitcoins na plataforma?"){:.cinza}
+*  [Como sacar meus bitcoins da plataforma?](/faq/como-sacar-meus-bitcoins-da-plataforma.html "Como sacar meus bitcoins da plataforma?"){:.cinza}
+*  [O que é o "Livro de Ofertas"?](/faq/o-que-e-o-livro-de-ofertas.html "O que é o Livro de Ofertas?"){:.cinza}
+*  [Para quê serve o botão "Acumulado" no "Livro de Ordens"?](/faq/para-que-serve-o-botao-acumulado.html "Para quê serve o botão Acumulado no Licro de Ordens?"){:.cinza}
+*  [O que é o **Histórico de Ordens**?](/faq/o-que-e-o-historico-de-ordens.html "O que é o Histórico de Ordens?"){:.cinza}
 
 
 
