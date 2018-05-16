@@ -1,5 +1,5 @@
 ---
-title: Como sacar bitcoins da plataforma?
+title: Como sacar meus bitcoins da plataforma?
 seotitle: Saiba como transferir bitcoins para outra carteira.
 description: Saiba como transferir bitcoins para outra carteira.
 layout: faqpage
